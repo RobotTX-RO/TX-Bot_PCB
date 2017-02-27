@@ -1,0 +1,24 @@
+Added Component: Designator=P1(HDR1X10)
+Added Pin To Net: NetName=VCC 5V Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-3
+Added Pin To Net: NetName=GND Pin=P1-5
+Added Pin To Net: NetName=GND Pin=P1-7
+Added Pin To Net: NetName=NetMicroController1_26 Pin=MicroController1-26
+Added Pin To Net: NetName=NetMicroController1_26 Pin=P1-9
+Added Net: Name=NetMicroController1_26
+Added Pin To Net: NetName=NetMicroController1_74 Pin=MicroController1-74
+Added Pin To Net: NetName=NetMicroController1_74 Pin=P1-2
+Added Net: Name=NetMicroController1_74
+Added Pin To Net: NetName=NetMicroController1_75 Pin=MicroController1-75
+Added Pin To Net: NetName=NetMicroController1_75 Pin=P1-4
+Added Net: Name=NetMicroController1_75
+Added Pin To Net: NetName=NetMicroController1_76 Pin=MicroController1-76
+Added Pin To Net: NetName=NetMicroController1_76 Pin=P1-6
+Added Net: Name=NetMicroController1_76
+Added Pin To Net: NetName=NetMicroController1_77 Pin=MicroController1-77
+Added Pin To Net: NetName=NetMicroController1_77 Pin=P1-8
+Added Net: Name=NetMicroController1_77
+Added Pin To Net: NetName=NetMicroController1_78 Pin=MicroController1-78
+Added Pin To Net: NetName=NetMicroController1_78 Pin=P1-10
+Added Net: Name=NetMicroController1_78
+Added Member To Class: ClassName=TXRobot-Boutons Member=Component P1 Header 10

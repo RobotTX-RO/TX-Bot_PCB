@@ -1,0 +1,56 @@
+Removed Pin From Net: NetName=GND Pin=Diode 1-+
+Removed Pin From Net: NetName=GND Pin=Diode 2-+
+Removed Pin From Net: NetName=VCC2 8V Pin=Diode 3--
+Removed Pin From Net: NetName=VCC2 8V Pin=Diode 4--
+Removed Pin From Net: NetName=GND Pin=Diode 5-+
+Removed Pin From Net: NetName=GND Pin=Diode 6-+
+Removed Pin From Net: NetName=VCC2 8V Pin=Diode 7--
+Removed Pin From Net: NetName=VCC2 8V Pin=Diode 8--
+Change Component DesignItemId : Designator=Diode 1 Old DesignItemId=Diode ss16 New DesignItemId=DiodeRedresseuse
+Change Component DesignItemId : Designator=Diode 2 Old DesignItemId=Diode ss16 New DesignItemId=DiodeRedresseuse
+Change Component DesignItemId : Designator=Diode 3 Old DesignItemId=Diode ss16 New DesignItemId=DiodeRedresseuse
+Change Component DesignItemId : Designator=Diode 4 Old DesignItemId=Diode ss16 New DesignItemId=DiodeRedresseuse
+Change Component DesignItemId : Designator=Diode 5 Old DesignItemId=Diode ss16 New DesignItemId=DiodeRedresseuse
+Change Component DesignItemId : Designator=Diode 6 Old DesignItemId=Diode ss16 New DesignItemId=DiodeRedresseuse
+Change Component DesignItemId : Designator=Diode 7 Old DesignItemId=Diode ss16 New DesignItemId=DiodeRedresseuse
+Change Component DesignItemId : Designator=Diode 8 Old DesignItemId=Diode ss16 New DesignItemId=DiodeRedresseuse
+Change Component Footprint: Designator=Diode 1 Old Footprint=Diode ss16 New Footprint=Diode MULTICOMP SS16
+Change Component Footprint: Designator=Diode 2 Old Footprint=Diode ss16 New Footprint=Diode MULTICOMP SS16
+Change Component Footprint: Designator=Diode 3 Old Footprint=Diode ss16 New Footprint=Diode MULTICOMP SS16
+Change Component Footprint: Designator=Diode 4 Old Footprint=Diode ss16 New Footprint=Diode MULTICOMP SS16
+Change Component Footprint: Designator=Diode 5 Old Footprint=Diode ss16 New Footprint=Diode MULTICOMP SS16
+Change Component Footprint: Designator=Diode 6 Old Footprint=Diode ss16 New Footprint=Diode MULTICOMP SS16
+Change Component Footprint: Designator=Diode 7 Old Footprint=Diode ss16 New Footprint=Diode MULTICOMP SS16
+Change Component Footprint: Designator=Diode 8 Old Footprint=Diode ss16 New Footprint=Diode MULTICOMP SS16
+Change Component Comment : Designator=Diode 1 Old Comment=Diode ss16 New Comment=DiodeRedresseuse
+Change Component Comment : Designator=Diode 2 Old Comment=Diode ss16 New Comment=DiodeRedresseuse
+Change Component Comment : Designator=Diode 3 Old Comment=Diode ss16 New Comment=DiodeRedresseuse
+Change Component Comment : Designator=Diode 4 Old Comment=Diode ss16 New Comment=DiodeRedresseuse
+Change Component Comment : Designator=Diode 5 Old Comment=Diode ss16 New Comment=DiodeRedresseuse
+Change Component Comment : Designator=Diode 6 Old Comment=Diode ss16 New Comment=DiodeRedresseuse
+Change Component Comment : Designator=Diode 7 Old Comment=Diode ss16 New Comment=DiodeRedresseuse
+Change Component Comment : Designator=Diode 8 Old Comment=Diode ss16 New Comment=DiodeRedresseuse
+Change Component Designator: OldDesignator=* NewDesignator=L293
+Added Pin To Net: NetName=VCC2 8V Pin=Diode 3-2
+Added Pin To Net: NetName=VCC2 8V Pin=Diode 4-2
+Added Pin To Net: NetName=VCC2 8V Pin=Diode 7-2
+Added Pin To Net: NetName=VCC2 8V Pin=Diode 8-2
+Added Pin To Net: NetName=Netdiode 1_2 Pin=Diode 1-2
+Added Pin To Net: NetName=Netdiode 1_2 Pin=Diode 3-1
+Added Pin To Net: NetName=Netdiode 1_2 Pin=L293-3
+Added Pin To Net: NetName=Netdiode 1_2 Pin=MOTOR1-2
+Added Net: Name=Netdiode 1_2
+Added Pin To Net: NetName=Netdiode 2_2 Pin=Diode 2-2
+Added Pin To Net: NetName=Netdiode 2_2 Pin=Diode 4-1
+Added Pin To Net: NetName=Netdiode 2_2 Pin=L293-6
+Added Pin To Net: NetName=Netdiode 2_2 Pin=MOTOR1-1
+Added Net: Name=Netdiode 2_2
+Added Pin To Net: NetName=Netdiode 5_2 Pin=Diode 5-2
+Added Pin To Net: NetName=Netdiode 5_2 Pin=L293-11
+Added Pin To Net: NetName=Netdiode 5_2 Pin=MOTOR2-1
+Added Net: Name=Netdiode 5_2
+Added Pin To Net: NetName=Netdiode 6_2 Pin=Diode 6-2
+Added Pin To Net: NetName=Netdiode 6_2 Pin=Diode 8-1
+Added Pin To Net: NetName=Netdiode 6_2 Pin=L293-14
+Added Pin To Net: NetName=Netdiode 6_2 Pin=MOTOR2-2
+Added Net: Name=Netdiode 6_2

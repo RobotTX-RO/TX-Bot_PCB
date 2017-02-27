@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=C8-1
+Removed Pin From Net: NetName=VCC 5V Pin=C8-2
+Removed Pin From Net: NetName=GND Pin=C9-1
+Removed Pin From Net: NetName=VCC 5V Pin=C9-2
+Removed Member From Class: ClassName=Driver Ligne 2 Member=C8
+Removed Member From Class: ClassName=Driver Ligne 2 Member=C9

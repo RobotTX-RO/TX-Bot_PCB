@@ -1,0 +1,17 @@
+Change Component Designator: OldDesignator=Connecteur1-10 NewDesignator=Connecteur1-10 Left
+Change Component Designator: OldDesignator=Connecteur 11-20 NewDesignator=Connecteur 11-20  Right
+Change Net Name : Old Net Name=NetConnecteur1-10_1 New Net Name=NetConnecteur1-10 Left_1
+Change Net Name : Old Net Name=NetConnecteur1-10_2 New Net Name=NetConnecteur1-10 Left_2
+Change Net Name : Old Net Name=NetConnecteur1-10_3 New Net Name=NetConnecteur1-10 Left_3
+Change Net Name : Old Net Name=NetConnecteur1-10_4 New Net Name=NetConnecteur1-10 Left_4
+Change Net Name : Old Net Name=NetConnecteur1-10_5 New Net Name=NetConnecteur1-10 Left_5
+Change Net Name : Old Net Name=NetConnecteur1-10_7 New Net Name=NetConnecteur1-10 Left_7
+Change Net Name : Old Net Name=NetConnecteur1-10_9 New Net Name=NetConnecteur1-10 Left_9
+Change Net Name : Old Net Name=NetConnecteur1-10_10 New Net Name=NetConnecteur1-10 Left_10
+Change Net Name : Old Net Name=NetConnecteur 11-20_1 New Net Name=NetConnecteur 11-20  Right_1
+Change Net Name : Old Net Name=NetConnecteur 11-20_3 New Net Name=NetConnecteur 11-20  Right_3
+Change Net Name : Old Net Name=NetConnecteur 11-20_5 New Net Name=NetConnecteur 11-20  Right_5
+Change Net Name : Old Net Name=NetConnecteur 11-20_7 New Net Name=NetConnecteur 11-20  Right_7
+Change Net Name : Old Net Name=NetConnecteur 11-20_8 New Net Name=NetConnecteur 11-20  Right_8
+Change Net Name : Old Net Name=NetConnecteur 11-20_9 New Net Name=NetConnecteur 11-20  Right_9
+Change Net Name : Old Net Name=NetConnecteur 11-20_10 New Net Name=NetConnecteur 11-20  Right_10

@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=R2 Old Footprint=0201 New Footprint=0805
+Change Component Footprint: Designator=R4 Old Footprint=0201 New Footprint=0805
+Added Member To Class: ClassName=CarteTxCapteurDistance 2 Member=Component U24 Transistors
+Added Member To Class: ClassName=CarteTxCapteurDistance 2 Member=Component U25 Transistors

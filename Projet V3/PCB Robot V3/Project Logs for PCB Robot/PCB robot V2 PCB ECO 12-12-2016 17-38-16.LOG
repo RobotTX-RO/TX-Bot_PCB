@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=NetMicroController1_12 Pin=MicroController1-12
+Added Pin To Net: NetName=NetMicroController1_12 Pin=To wifi-1
+Added Net: Name=NetMicroController1_12
+Added Pin To Net: NetName=NetMicroController1_13 Pin=MicroController1-13
+Added Pin To Net: NetName=NetMicroController1_13 Pin=R49-1
+Added Net: Name=NetMicroController1_13

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=U38-GND
+Removed Pin From Net: NetName=VCC 5V Pin=U38-VCC
+Removed Pin From Net: NetName=GND Pin=U39-GND
+Removed Pin From Net: NetName=VCC 5V Pin=U39-VCC
+Removed Member From Class: ClassName=CarteTxCapteurDistance 2 Member=U38
+Removed Member From Class: ClassName=CarteTxCapteurDistance 2 Member=U39

@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [TXRobot-Boutons.PrjPCB]
+   Generated File[TXRobot-Boutons.TXT]
+   Generated File[TXRobot-Boutons.LDP]
+   Generated File[TXRobot-Boutons.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 11:10:00 AM On 10/24/2016

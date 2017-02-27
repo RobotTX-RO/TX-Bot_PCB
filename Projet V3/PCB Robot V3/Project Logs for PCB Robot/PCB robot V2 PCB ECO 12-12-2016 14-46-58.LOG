@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=BATTERY Pin=Battery pins1-2
+Added Component: Designator=SW1(RS734-7292)
+Added Pin To Net: NetName=BATTERY Pin=SW1-1
+Added Pin To Net: NetName=NetBattery pins1_2 Pin=Battery pins1-2
+Added Pin To Net: NetName=NetBattery pins1_2 Pin=SW1-3
+Added Net: Name=NetBattery pins1_2
+Added Member To Class: ClassName=Alim sch projet robot Member=Component Battery pins1 Header 2
+Added Member To Class: ClassName=Alim sch projet robot Member=Component SW1 SW_SPDT

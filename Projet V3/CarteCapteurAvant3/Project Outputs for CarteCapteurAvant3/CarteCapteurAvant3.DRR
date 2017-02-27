@@ -1,0 +1,19 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: CarteCapteurAvant3.PCBDOC   29/01/2017  00:48:28
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : CarteCapteurAvant3.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        23.6mil (0.59944mm)      Round          1                0.00 Inch (0.00 mm)
+T2        28mil (0.7112mm)         Round          76               23.96 Inch (608.56 mm)
+T3        36mil (0.9144mm)         Round          20               2.56 Inch (65.11 mm)
+T4        39.4mil (1.00076mm)      Round          10               2.30 Inch (58.53 mm)
+T5        98.4mil (2.49936mm)      Round          4                1.58 Inch (40.16 mm)
+T6        137.8mil (3.50012mm)     Round          4                7.53 Inch (191.35 mm)
+---------------------------------------------------------------------------
+Totals                                            115              37.94 Inch (963.72 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

@@ -1,0 +1,686 @@
+Added Component: Designator=*(BuzzerChinois)
+Added Component: Designator=Battery pins1(HDR1X2)
+Added Component: Designator=C1(293D/B)
+Added Component: Designator=C2(293D/B)
+Added Component: Designator=C3(293D/B)
+Added Component: Designator=C4(293D/B)
+Added Component: Designator=C5(293D/B)
+Added Component: Designator=C6(293D/B)
+Added Component: Designator=C7(293D/B)
+Added Component: Designator=C8(293D/B)
+Added Component: Designator=C9(0805)
+Added Component: Designator=C10(0805)
+Added Component: Designator=C11(0805)
+Added Component: Designator=C12(0805)
+Added Component: Designator=C13(0805)
+Added Component: Designator=C17(0805)
+Added Component: Designator=C18(0805)
+Added Component: Designator=C19(0805)
+Added Component: Designator=C20(0805)
+Added Component: Designator=C21(0805)
+Added Component: Designator=C22(0805)
+Added Component: Designator=C23(0805)
+Added Component: Designator=C24(0805)
+Added Component: Designator=C25(0805)
+Added Component: Designator=C26(0805)
+Added Component: Designator=C27(0805)
+Added Component: Designator=C28(0805)
+Added Component: Designator=C29(0805)
+Added Component: Designator=C30(0805)
+Added Component: Designator=Capteur exte 1(RJ12_Femelle_FCI)
+Added Component: Designator=Capteur exte 2(RJ12_Femelle_FCI)
+Added Component: Designator=Capteur exte 3(Headers8)
+Added Component: Designator=Capteur exte 4(Headers8)
+Added Component: Designator=D1(Schottly Diode SS32 footprint)
+Added Component: Designator=D2(Schottly Diode SS32 footprint)
+Added Component: Designator=D3(Schottly Diode SS32 footprint)
+Added Component: Designator=D4(Diode MULTICOMP SS16)
+Added Component: Designator=D5(Diode MULTICOMP SS16)
+Added Component: Designator=D6(Diode MULTICOMP SS16)
+Added Component: Designator=D7(Diode MULTICOMP SS16)
+Added Component: Designator=D8(Diode MULTICOMP SS16)
+Added Component: Designator=D9(Diode MULTICOMP SS16)
+Added Component: Designator=D10(Diode MULTICOMP SS16)
+Added Component: Designator=D11(Diode MULTICOMP SS16)
+Added Component: Designator=D12(Diode MULTICOMP SS16)
+Added Component: Designator=D13(Diode MULTICOMP SS16)
+Added Component: Designator=D?(Diode MULTICOMP SS16)
+Added Component: Designator=ICSP 1(Prog Arduino)
+Added Component: Designator=ICSP uC1(Prog Arduino)
+Added Component: Designator=L1(1050)
+Added Component: Designator=L2(1050)
+Added Component: Designator=L3(1050)
+Added Component: Designator=LD1(LED0805)
+Added Component: Designator=LD2(LED0805)
+Added Component: Designator=LD3(LED0805)
+Added Component: Designator=LD4(LED0805)
+Added Component: Designator=LED1(LED0805)
+Added Component: Designator=MicroController1(100A_N)
+Added Component: Designator=Motor 1(HDR1X2)
+Added Component: Designator=Motor 2(HDR1X2)
+Added Component: Designator=P1(HDR1X10)
+Added Component: Designator=P2(HDR1X6)
+Added Component: Designator=pullUpSCL(0805)
+Added Component: Designator=pullUpSDA(0805)
+Added Component: Designator=R1(0805)
+Added Component: Designator=R3(0805)
+Added Component: Designator=R5(0805)
+Added Component: Designator=R6(0805)
+Added Component: Designator=R7(0805)
+Added Component: Designator=R8(0805)
+Added Component: Designator=R9(0805)
+Added Component: Designator=R10(0805)
+Added Component: Designator=R11(0805)
+Added Component: Designator=R27(0805)
+Added Component: Designator=R28(0805)
+Added Component: Designator=R29(0805)
+Added Component: Designator=R30(0805)
+Added Component: Designator=R31(0805)
+Added Component: Designator=R32(0805)
+Added Component: Designator=R33(0201)
+Added Component: Designator=R34(0201)
+Added Component: Designator=R35(0201)
+Added Component: Designator=R36(0201)
+Added Component: Designator=R37(0201)
+Added Component: Designator=R38(0201)
+Added Component: Designator=R39(0805)
+Added Component: Designator=R40(0805)
+Added Component: Designator=R41(0805)
+Added Component: Designator=R42(0805)
+Added Component: Designator=R43(0805)
+Added Component: Designator=R44(0805)
+Added Component: Designator=R45(0805)
+Added Component: Designator=R46(0805)
+Added Component: Designator=R47(0805)
+Added Component: Designator=R48(0805)
+Added Component: Designator=R49(0805)
+Added Component: Designator=R50(0805)
+Added Component: Designator=R51(0805)
+Added Component: Designator=R52(0805)
+Added Component: Designator=SW1(JMP2-100)
+Added Component: Designator=To LED Matrix1(HDR1X5)
+Added Component: Designator=U1(LM2731 footprint)
+Added Component: Designator=U3(LM2731 footprint)
+Added Component: Designator=U4(LMR10510 footprint)
+Added Component: Designator=U5(MCP73831)
+Added Component: Designator=U21(Infrared)
+Added Component: Designator=U22(Infrared)
+Added Component: Designator=U23(BC817-40)
+Added Component: Designator=U24(BC817-40)
+Added Component: Designator=U25(BC817-40)
+Added Component: Designator=U26(BC817-40)
+Added Component: Designator=U27(LedRgbWs2812b)
+Added Component: Designator=U28(LedRgbWs2812b)
+Added Component: Designator=U29(LedRgbWs2812b)
+Added Component: Designator=U30(LedRgbWs2812b)
+Added Component: Designator=U31(LedRgbWs2812b)
+Added Component: Designator=U32(LedRgbWs2812b)
+Added Component: Designator=U35(ITR9608 footprint)
+Added Component: Designator=U36(MCP6002)
+Added Component: Designator=U37(ITR9608 footprint)
+Added Component: Designator=U38(L293NE)
+Added Component: Designator=U39(USB micro B connector)
+Added Component: Designator=U40(32A_N)
+Added Component: Designator=U41(ESP8266MOD Footprint)
+Added Component: Designator=X1(HC-49S-SMD)
+Added Component: Designator=X2(HC-49S-SMD)
+Added Pin To Net: NetName=Net*_0 Pin=*-0
+Added Pin To Net: NetName=GND Pin=*-1
+Added Pin To Net: NetName=GND Pin=Battery pins1-1
+Added Pin To Net: NetName=BATTERY PIN + Pin=Battery pins1-2
+Added Pin To Net: NetName=BATTERY Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=VCC 8V Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=BATTERY Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=VCC 5V Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=BATTERY Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=VCC 3.3V Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=VCC 5V USB Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=BATTERY PIN Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=VCC 5V Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=VCC 5V Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=VCC 5V Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=VCC 5V Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=VCC 5V Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=VCC 5V Pin=C17-2
+Added Pin To Net: NetName=VCC 8V Pin=C18-1
+Added Pin To Net: NetName=GND Pin=C18-2
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=VCC 5V USB Pin=C19-2
+Added Pin To Net: NetName=VCC 5V Pin=C20-1
+Added Pin To Net: NetName=GND Pin=C20-2
+Added Pin To Net: NetName=NetC21_1 Pin=C21-1
+Added Pin To Net: NetName=GND Pin=C21-2
+Added Pin To Net: NetName=NetC22_1 Pin=C22-1
+Added Pin To Net: NetName=GND Pin=C22-2
+Added Pin To Net: NetName=GND Pin=C23-1
+Added Pin To Net: NetName=VCC 5V Pin=C23-2
+Added Pin To Net: NetName=GND Pin=C24-1
+Added Pin To Net: NetName=NetC24_2 Pin=C24-2
+Added Pin To Net: NetName=RESET Pin=C25-1
+Added Pin To Net: NetName=DTR Pin=C25-2
+Added Pin To Net: NetName=VCC 5V Pin=C26-1
+Added Pin To Net: NetName=GND Pin=C26-2
+Added Pin To Net: NetName=NetC27_1 Pin=C27-1
+Added Pin To Net: NetName=GND Pin=C27-2
+Added Pin To Net: NetName=NetC28_1 Pin=C28-1
+Added Pin To Net: NetName=GND Pin=C28-2
+Added Pin To Net: NetName=VCC 3.3V Pin=C29-1
+Added Pin To Net: NetName=GND Pin=C29-2
+Added Pin To Net: NetName=GND Pin=C30-1
+Added Pin To Net: NetName=VCC 5V Pin=C30-2
+Added Pin To Net: NetName=NetCapteur exte 1_1 Pin=Capteur exte 1-1
+Added Pin To Net: NetName=NetCapteur exte 1_2 Pin=Capteur exte 1-2
+Added Pin To Net: NetName=VCC 5V Pin=Capteur exte 1-3
+Added Pin To Net: NetName=GND Pin=Capteur exte 1-4
+Added Pin To Net: NetName=NetCapteur exte 1_5 Pin=Capteur exte 1-5
+Added Pin To Net: NetName=NetCapteur exte 1_6 Pin=Capteur exte 1-6
+Added Pin To Net: NetName=NetCapteur exte 2_1 Pin=Capteur exte 2-1
+Added Pin To Net: NetName=NetCapteur exte 2_2 Pin=Capteur exte 2-2
+Added Pin To Net: NetName=VCC 5V Pin=Capteur exte 2-3
+Added Pin To Net: NetName=GND Pin=Capteur exte 2-4
+Added Pin To Net: NetName=NetCapteur exte 1_5 Pin=Capteur exte 2-5
+Added Pin To Net: NetName=NetCapteur exte 1_6 Pin=Capteur exte 2-6
+Added Pin To Net: NetName=NetCapteur exte 3_1 Pin=Capteur exte 3-1
+Added Pin To Net: NetName=NetCapteur exte 3_2 Pin=Capteur exte 3-2
+Added Pin To Net: NetName=VCC 5V Pin=Capteur exte 3-3
+Added Pin To Net: NetName=GND Pin=Capteur exte 3-4
+Added Pin To Net: NetName=NetCapteur exte 1_5 Pin=Capteur exte 3-5
+Added Pin To Net: NetName=NetCapteur exte 1_6 Pin=Capteur exte 3-6
+Added Pin To Net: NetName=NetCapteur exte 4_1 Pin=Capteur exte 4-1
+Added Pin To Net: NetName=NetCapteur exte 4_2 Pin=Capteur exte 4-2
+Added Pin To Net: NetName=VCC 5V Pin=Capteur exte 4-3
+Added Pin To Net: NetName=GND Pin=Capteur exte 4-4
+Added Pin To Net: NetName=NetCapteur exte 4_5 Pin=Capteur exte 4-5
+Added Pin To Net: NetName=VCC 8V Pin=D1-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=VCC 5V Pin=D2-1
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=GND Pin=D3-2
+Added Pin To Net: NetName=MOTOR1 OUT+ Pin=D4-1
+Added Pin To Net: NetName=VCC 8V Pin=D4-2
+Added Pin To Net: NetName=MOTOR2 OUT+ Pin=D5-1
+Added Pin To Net: NetName=VCC 8V Pin=D5-2
+Added Pin To Net: NetName=GND Pin=D6-1
+Added Pin To Net: NetName=MOTOR1 OUT+ Pin=D6-2
+Added Pin To Net: NetName=GND Pin=D7-1
+Added Pin To Net: NetName=MOTOR2 OUT+ Pin=D7-2
+Added Pin To Net: NetName=GND Pin=D8-1
+Added Pin To Net: NetName=MOTOR1 OUT- Pin=D8-2
+Added Pin To Net: NetName=GND Pin=D9-1
+Added Pin To Net: NetName=MOTOR2 OUT- Pin=D9-2
+Added Pin To Net: NetName=MOTOR1 OUT- Pin=D10-1
+Added Pin To Net: NetName=VCC 8V Pin=D10-2
+Added Pin To Net: NetName=MOTOR2 OUT- Pin=D11-1
+Added Pin To Net: NetName=VCC 8V Pin=D11-2
+Added Pin To Net: NetName=RESET Pin=D12-1
+Added Pin To Net: NetName=VCC 5V Pin=D12-2
+Added Pin To Net: NetName=RESET 16 Pin=D13-1
+Added Pin To Net: NetName=VCC 5V Pin=D13-2
+Added Pin To Net: NetName=BATTERY PIN Pin=D?-1
+Added Pin To Net: NetName=BATTERY PIN + Pin=D?-2
+Added Pin To Net: NetName=MISO 16 Pin=ICSP 1-1
+Added Pin To Net: NetName=VCC 5V Pin=ICSP 1-2
+Added Pin To Net: NetName=SCK 16 Pin=ICSP 1-3
+Added Pin To Net: NetName=MOSI 16 Pin=ICSP 1-4
+Added Pin To Net: NetName=RESET 16 Pin=ICSP 1-5
+Added Pin To Net: NetName=GND Pin=ICSP 1-6
+Added Pin To Net: NetName=MISO Pin=ICSP uC1-1
+Added Pin To Net: NetName=VCC 5V Pin=ICSP uC1-2
+Added Pin To Net: NetName=SCK Pin=ICSP uC1-3
+Added Pin To Net: NetName=MOSI Pin=ICSP uC1-4
+Added Pin To Net: NetName=RESET Pin=ICSP uC1-5
+Added Pin To Net: NetName=GND Pin=ICSP uC1-6
+Added Pin To Net: NetName=BATTERY Pin=L1-1
+Added Pin To Net: NetName=NetD1_2 Pin=L1-2
+Added Pin To Net: NetName=BATTERY Pin=L2-1
+Added Pin To Net: NetName=NetD2_2 Pin=L2-2
+Added Pin To Net: NetName=NetD3_1 Pin=L3-1
+Added Pin To Net: NetName=VCC 3.3V Pin=L3-2
+Added Pin To Net: NetName=VCC 5V USB Pin=LD1-A
+Added Pin To Net: NetName=NetLD1_K Pin=LD1-K
+Added Pin To Net: NetName=VCC 5V Pin=LD2-A
+Added Pin To Net: NetName=NetLD2_K Pin=LD2-K
+Added Pin To Net: NetName=NetLD3_A Pin=LD3-A
+Added Pin To Net: NetName=NetLD3_K Pin=LD3-K
+Added Pin To Net: NetName=NetLD4_A Pin=LD4-A
+Added Pin To Net: NetName=NetLD4_K Pin=LD4-K
+Added Pin To Net: NetName=NetLED1_A Pin=LED1-A
+Added Pin To Net: NetName=NetLED1_K Pin=LED1-K
+Added Pin To Net: NetName=SELIAL_RX Pin=MicroController1-2
+Added Pin To Net: NetName=SERIAL_TX Pin=MicroController1-3
+Added Pin To Net: NetName=ENABLE 2 Pin=MicroController1-5
+Added Pin To Net: NetName=VCC 5V Pin=MicroController1-10
+Added Pin To Net: NetName=GND Pin=MicroController1-11
+Added Pin To Net: NetName=NetMicroController1_12 Pin=MicroController1-12
+Added Pin To Net: NetName=NetMicroController1_13 Pin=MicroController1-13
+Added Pin To Net: NetName=MOTOR2 IN2 Pin=MicroController1-15
+Added Pin To Net: NetName=MOTOR2 IN1 Pin=MicroController1-16
+Added Pin To Net: NetName=MOTOR1 IN 2 Pin=MicroController1-17
+Added Pin To Net: NetName=MOTOR1 IN 1 Pin=MicroController1-18
+Added Pin To Net: NetName=SCK Pin=MicroController1-20
+Added Pin To Net: NetName=MOSI Pin=MicroController1-21
+Added Pin To Net: NetName=MISO Pin=MicroController1-22
+Added Pin To Net: NetName=ENABLE 1 Pin=MicroController1-23
+Added Pin To Net: NetName=Net*_0 Pin=MicroController1-24
+Added Pin To Net: NetName=NetMicroController1_25 Pin=MicroController1-25
+Added Pin To Net: NetName=NetMicroController1_26 Pin=MicroController1-26
+Added Pin To Net: NetName=RESET Pin=MicroController1-30
+Added Pin To Net: NetName=VCC 5V Pin=MicroController1-31
+Added Pin To Net: NetName=GND Pin=MicroController1-32
+Added Pin To Net: NetName=NetC28_1 Pin=MicroController1-33
+Added Pin To Net: NetName=NetC27_1 Pin=MicroController1-34
+Added Pin To Net: NetName=NetMicroController1_35 Pin=MicroController1-35
+Added Pin To Net: NetName=NetMicroController1_37 Pin=MicroController1-37
+Added Pin To Net: NetName=NetMicroController1_40 Pin=MicroController1-40
+Added Pin To Net: NetName=NetMicroController1_41 Pin=MicroController1-41
+Added Pin To Net: NetName=NetMicroController1_42 Pin=MicroController1-42
+Added Pin To Net: NetName=NetCapteur exte 1_6 Pin=MicroController1-43
+Added Pin To Net: NetName=NetCapteur exte 1_5 Pin=MicroController1-44
+Added Pin To Net: NetName=NetMicroController1_51 Pin=MicroController1-51
+Added Pin To Net: NetName=NetMicroController1_52 Pin=MicroController1-52
+Added Pin To Net: NetName=NetMicroController1_53 Pin=MicroController1-53
+Added Pin To Net: NetName=NetMicroController1_55 Pin=MicroController1-55
+Added Pin To Net: NetName=NetCapteur exte 4_5 Pin=MicroController1-57
+Added Pin To Net: NetName=NetMicroController1_58 Pin=MicroController1-58
+Added Pin To Net: NetName=NetMicroController1_59 Pin=MicroController1-59
+Added Pin To Net: NetName=NetMicroController1_60 Pin=MicroController1-60
+Added Pin To Net: NetName=VCC 5V Pin=MicroController1-61
+Added Pin To Net: NetName=GND Pin=MicroController1-62
+Added Pin To Net: NetName=NetCapteur exte 4_1 Pin=MicroController1-63
+Added Pin To Net: NetName=NetCapteur exte 4_2 Pin=MicroController1-64
+Added Pin To Net: NetName=NetMicroController1_70 Pin=MicroController1-70
+Added Pin To Net: NetName=NetMicroController1_74 Pin=MicroController1-74
+Added Pin To Net: NetName=NetMicroController1_75 Pin=MicroController1-75
+Added Pin To Net: NetName=NetMicroController1_76 Pin=MicroController1-76
+Added Pin To Net: NetName=NetMicroController1_77 Pin=MicroController1-77
+Added Pin To Net: NetName=NetMicroController1_78 Pin=MicroController1-78
+Added Pin To Net: NetName=VCC 5V Pin=MicroController1-80
+Added Pin To Net: NetName=GND Pin=MicroController1-81
+Added Pin To Net: NetName=NetMicroController1_82 Pin=MicroController1-82
+Added Pin To Net: NetName=NetMicroController1_83 Pin=MicroController1-83
+Added Pin To Net: NetName=NetMicroController1_84 Pin=MicroController1-84
+Added Pin To Net: NetName=NetMicroController1_85 Pin=MicroController1-85
+Added Pin To Net: NetName=NetMicroController1_86 Pin=MicroController1-86
+Added Pin To Net: NetName=NetMicroController1_87 Pin=MicroController1-87
+Added Pin To Net: NetName=NetMicroController1_88 Pin=MicroController1-88
+Added Pin To Net: NetName=NetMicroController1_94 Pin=MicroController1-94
+Added Pin To Net: NetName=NetMicroController1_95 Pin=MicroController1-95
+Added Pin To Net: NetName=NetMicroController1_96 Pin=MicroController1-96
+Added Pin To Net: NetName=NetMicroController1_97 Pin=MicroController1-97
+Added Pin To Net: NetName=GND Pin=MicroController1-98
+Added Pin To Net: NetName=GND Pin=MicroController1-99
+Added Pin To Net: NetName=VCC 5V Pin=MicroController1-100
+Added Pin To Net: NetName=MOTOR1 OUT- Pin=Motor 1-1
+Added Pin To Net: NetName=MOTOR1 OUT+ Pin=Motor 1-2
+Added Pin To Net: NetName=MOTOR2 OUT+ Pin=Motor 2-1
+Added Pin To Net: NetName=MOTOR2 OUT- Pin=Motor 2-2
+Added Pin To Net: NetName=NetMicroController1_78 Pin=P1-1
+Added Pin To Net: NetName=NetMicroController1_26 Pin=P1-2
+Added Pin To Net: NetName=NetMicroController1_77 Pin=P1-3
+Added Pin To Net: NetName=GND Pin=P1-4
+Added Pin To Net: NetName=NetMicroController1_76 Pin=P1-5
+Added Pin To Net: NetName=GND Pin=P1-6
+Added Pin To Net: NetName=NetMicroController1_74 Pin=P1-7
+Added Pin To Net: NetName=GND Pin=P1-8
+Added Pin To Net: NetName=NetMicroController1_75 Pin=P1-9
+Added Pin To Net: NetName=VCC 5V Pin=P1-10
+Added Pin To Net: NetName=GND Pin=P2-1
+Added Pin To Net: NetName=NetMicroController1_96 Pin=P2-2
+Added Pin To Net: NetName=NetMicroController1_42 Pin=P2-3
+Added Pin To Net: NetName=NetMicroController1_97 Pin=P2-4
+Added Pin To Net: NetName=NetMicroController1_52 Pin=P2-5
+Added Pin To Net: NetName=VCC 5V Pin=P2-6
+Added Pin To Net: NetName=VCC 5V Pin=pullUpSCL-1
+Added Pin To Net: NetName=NetCapteur exte 1_6 Pin=pullUpSCL-2
+Added Pin To Net: NetName=VCC 5V Pin=pullUpSDA-1
+Added Pin To Net: NetName=NetCapteur exte 1_5 Pin=pullUpSDA-2
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=VCC 8V Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=NetR1_1 Pin=R3-2
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=VCC 5V Pin=R5-2
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=NetR5_1 Pin=R6-2
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=VCC 3.3V Pin=R7-2
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=NetR7_1 Pin=R8-2
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=GND Pin=R9-2
+Added Pin To Net: NetName=NetLD1_K Pin=R10-1
+Added Pin To Net: NetName=NetLED1_A Pin=R10-2
+Added Pin To Net: NetName=NetLED1_K Pin=R11-1
+Added Pin To Net: NetName=GND Pin=R11-2
+Added Pin To Net: NetName=NetMicroController1_83 Pin=R27-1
+Added Pin To Net: NetName=GND Pin=R27-2
+Added Pin To Net: NetName=NetMicroController1_82 Pin=R28-1
+Added Pin To Net: NetName=GND Pin=R28-2
+Added Pin To Net: NetName=NetMicroController1_37 Pin=R29-1
+Added Pin To Net: NetName=NetR29_2 Pin=R29-2
+Added Pin To Net: NetName=NetMicroController1_35 Pin=R30-1
+Added Pin To Net: NetName=NetR30_2 Pin=R30-2
+Added Pin To Net: NetName=GND Pin=R31-1
+Added Pin To Net: NetName=NetR31_2 Pin=R31-2
+Added Pin To Net: NetName=GND Pin=R32-1
+Added Pin To Net: NetName=NetR32_2 Pin=R32-2
+Added Pin To Net: NetName=NetR33_1 Pin=R33-1
+Added Pin To Net: NetName=GND Pin=R33-2
+Added Pin To Net: NetName=GND Pin=R34-1
+Added Pin To Net: NetName=NetR34_2 Pin=R34-2
+Added Pin To Net: NetName=GND Pin=R35-1
+Added Pin To Net: NetName=NetR35_2 Pin=R35-2
+Added Pin To Net: NetName=NetR36_1 Pin=R36-1
+Added Pin To Net: NetName=GND Pin=R36-2
+Added Pin To Net: NetName=VOLTAGE DIVIDER Pin=R37-1
+Added Pin To Net: NetName=VCC 5V Pin=R37-2
+Added Pin To Net: NetName=VOLTAGE DIVIDER Pin=R38-1
+Added Pin To Net: NetName=GND Pin=R38-2
+Added Pin To Net: NetName=NetLD2_K Pin=R39-1
+Added Pin To Net: NetName=GND Pin=R39-2
+Added Pin To Net: NetName=NetC21_1 Pin=R40-1
+Added Pin To Net: NetName=NetC22_1 Pin=R40-2
+Added Pin To Net: NetName=NetR41_1 Pin=R41-1
+Added Pin To Net: NetName=D- Pin=R41-2
+Added Pin To Net: NetName=NetR42_1 Pin=R42-1
+Added Pin To Net: NetName=SERIAL_TX Pin=R42-2
+Added Pin To Net: NetName=NetR43_1 Pin=R43-1
+Added Pin To Net: NetName=SELIAL_RX Pin=R43-2
+Added Pin To Net: NetName=D+ Pin=R44-1
+Added Pin To Net: NetName=NetR44_2 Pin=R44-2
+Added Pin To Net: NetName=NetLD3_A Pin=R45-1
+Added Pin To Net: NetName=VCC 5V Pin=R45-2
+Added Pin To Net: NetName=NetLD4_A Pin=R46-1
+Added Pin To Net: NetName=VCC 5V Pin=R46-2
+Added Pin To Net: NetName=RESET Pin=R47-1
+Added Pin To Net: NetName=VCC 5V Pin=R47-2
+Added Pin To Net: NetName=RESET 16 Pin=R48-1
+Added Pin To Net: NetName=VCC 5V Pin=R48-2
+Added Pin To Net: NetName=GND Pin=R49-1
+Added Pin To Net: NetName=DTR Pin=R49-2
+Added Pin To Net: NetName=NetC28_1 Pin=R50-1
+Added Pin To Net: NetName=NetC27_1 Pin=R50-2
+Added Pin To Net: NetName=NetMicroController1_13 Pin=R51-1
+Added Pin To Net: NetName=NetR51_2 Pin=R51-2
+Added Pin To Net: NetName=NetR51_2 Pin=R52-1
+Added Pin To Net: NetName=GND Pin=R52-2
+Added Pin To Net: NetName=BATTERY PIN + Pin=SW1-1
+Added Pin To Net: NetName=BATTERY Pin=SW1-2
+Added Pin To Net: NetName=VCC 5V Pin=To LED Matrix1-1
+Added Pin To Net: NetName=GND Pin=To LED Matrix1-2
+Added Pin To Net: NetName=NetMicroController1_60 Pin=To LED Matrix1-3
+Added Pin To Net: NetName=NetMicroController1_59 Pin=To LED Matrix1-4
+Added Pin To Net: NetName=NetMicroController1_58 Pin=To LED Matrix1-5
+Added Pin To Net: NetName=NetD1_2 Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=NetR1_1 Pin=U1-3
+Added Pin To Net: NetName=BATTERY Pin=U1-4
+Added Pin To Net: NetName=BATTERY Pin=U1-5
+Added Pin To Net: NetName=NetD2_2 Pin=U3-1
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=NetR5_1 Pin=U3-3
+Added Pin To Net: NetName=BATTERY Pin=U3-4
+Added Pin To Net: NetName=BATTERY Pin=U3-5
+Added Pin To Net: NetName=NetD3_1 Pin=U4-1
+Added Pin To Net: NetName=GND Pin=U4-2
+Added Pin To Net: NetName=NetR7_1 Pin=U4-3
+Added Pin To Net: NetName=BATTERY Pin=U4-4
+Added Pin To Net: NetName=BATTERY Pin=U4-5
+Added Pin To Net: NetName=NetLED1_A Pin=U5-1
+Added Pin To Net: NetName=GND Pin=U5-2
+Added Pin To Net: NetName=BATTERY PIN Pin=U5-3
+Added Pin To Net: NetName=VCC 5V USB Pin=U5-4
+Added Pin To Net: NetName=NetR9_1 Pin=U5-5
+Added Pin To Net: NetName=NetU21_gndEmitter Pin=U21-gndEmitter
+Added Pin To Net: NetName=NetMicroController1_83 Pin=U21-gndReceiver
+Added Pin To Net: NetName=VCC 5V Pin=U21-VCC
+Added Pin To Net: NetName=VCC 5V Pin=U21-VCC
+Added Pin To Net: NetName=NetU22_gndEmitter Pin=U22-gndEmitter
+Added Pin To Net: NetName=NetMicroController1_82 Pin=U22-gndReceiver
+Added Pin To Net: NetName=VCC 5V Pin=U22-VCC
+Added Pin To Net: NetName=VCC 5V Pin=U22-VCC
+Added Pin To Net: NetName=NetR29_2 Pin=U23-1
+Added Pin To Net: NetName=NetR31_2 Pin=U23-2
+Added Pin To Net: NetName=NetU21_gndEmitter Pin=U23-3
+Added Pin To Net: NetName=NetR30_2 Pin=U24-1
+Added Pin To Net: NetName=NetR32_2 Pin=U24-2
+Added Pin To Net: NetName=NetU22_gndEmitter Pin=U24-3
+Added Pin To Net: NetName=NetR31_2 Pin=U25-1
+Added Pin To Net: NetName=GND Pin=U25-2
+Added Pin To Net: NetName=NetR29_2 Pin=U25-3
+Added Pin To Net: NetName=NetR32_2 Pin=U26-1
+Added Pin To Net: NetName=GND Pin=U26-2
+Added Pin To Net: NetName=NetR30_2 Pin=U26-3
+Added Pin To Net: NetName=NetMicroController1_40 Pin=U27-din
+Added Pin To Net: NetName=NetU27_dout Pin=U27-dout
+Added Pin To Net: NetName=GND Pin=U27-GND
+Added Pin To Net: NetName=VCC 5V Pin=U27-VCC
+Added Pin To Net: NetName=NetU27_dout Pin=U28-din
+Added Pin To Net: NetName=NetU28_dout Pin=U28-dout
+Added Pin To Net: NetName=GND Pin=U28-GND
+Added Pin To Net: NetName=VCC 5V Pin=U28-VCC
+Added Pin To Net: NetName=NetU28_dout Pin=U29-din
+Added Pin To Net: NetName=NetU29_dout Pin=U29-dout
+Added Pin To Net: NetName=GND Pin=U29-GND
+Added Pin To Net: NetName=VCC 5V Pin=U29-VCC
+Added Pin To Net: NetName=NetU29_dout Pin=U30-din
+Added Pin To Net: NetName=NetU30_dout Pin=U30-dout
+Added Pin To Net: NetName=GND Pin=U30-GND
+Added Pin To Net: NetName=VCC 5V Pin=U30-VCC
+Added Pin To Net: NetName=NetU30_dout Pin=U31-din
+Added Pin To Net: NetName=NetU31_dout Pin=U31-dout
+Added Pin To Net: NetName=GND Pin=U31-GND
+Added Pin To Net: NetName=VCC 5V Pin=U31-VCC
+Added Pin To Net: NetName=NetU31_dout Pin=U32-din
+Added Pin To Net: NetName=GND Pin=U32-GND
+Added Pin To Net: NetName=VCC 5V Pin=U32-VCC
+Added Pin To Net: NetName=VCC 5V Pin=U35-1
+Added Pin To Net: NetName=NetR34_2 Pin=U35-2
+Added Pin To Net: NetName=VCC 5V Pin=U35-3
+Added Pin To Net: NetName=NetR33_1 Pin=U35-4
+Added Pin To Net: NetName=NetMicroController1_95 Pin=U36-1
+Added Pin To Net: NetName=VOLTAGE DIVIDER Pin=U36-2
+Added Pin To Net: NetName=NetR33_1 Pin=U36-3
+Added Pin To Net: NetName=GND Pin=U36-4
+Added Pin To Net: NetName=NetR36_1 Pin=U36-5
+Added Pin To Net: NetName=VOLTAGE DIVIDER Pin=U36-6
+Added Pin To Net: NetName=NetMicroController1_94 Pin=U36-7
+Added Pin To Net: NetName=VCC 5V Pin=U36-8
+Added Pin To Net: NetName=VCC 5V Pin=U37-1
+Added Pin To Net: NetName=NetR35_2 Pin=U37-2
+Added Pin To Net: NetName=VCC 5V Pin=U37-3
+Added Pin To Net: NetName=NetR36_1 Pin=U37-4
+Added Pin To Net: NetName=ENABLE 1 Pin=U38-1
+Added Pin To Net: NetName=MOTOR1 IN 1 Pin=U38-2
+Added Pin To Net: NetName=MOTOR1 OUT+ Pin=U38-3
+Added Pin To Net: NetName=GND Pin=U38-4
+Added Pin To Net: NetName=GND Pin=U38-5
+Added Pin To Net: NetName=MOTOR1 OUT- Pin=U38-6
+Added Pin To Net: NetName=MOTOR1 IN 2 Pin=U38-7
+Added Pin To Net: NetName=VCC 8V Pin=U38-8
+Added Pin To Net: NetName=VCC 5V Pin=U38-9
+Added Pin To Net: NetName=MOTOR2 IN1 Pin=U38-10
+Added Pin To Net: NetName=MOTOR2 OUT+ Pin=U38-11
+Added Pin To Net: NetName=GND Pin=U38-12
+Added Pin To Net: NetName=GND Pin=U38-13
+Added Pin To Net: NetName=MOTOR2 OUT- Pin=U38-14
+Added Pin To Net: NetName=MOTOR2 IN2 Pin=U38-15
+Added Pin To Net: NetName=ENABLE 2 Pin=U38-16
+Added Pin To Net: NetName=VCC 5V USB Pin=U39-1
+Added Pin To Net: NetName=D- Pin=U39-2
+Added Pin To Net: NetName=D+ Pin=U39-3
+Added Pin To Net: NetName=GND Pin=U39-5
+Added Pin To Net: NetName=GND Pin=U39-6
+Added Pin To Net: NetName=GND Pin=U39-7
+Added Pin To Net: NetName=GND Pin=U39-8
+Added Pin To Net: NetName=GND Pin=U39-9
+Added Pin To Net: NetName=GND Pin=U39-10
+Added Pin To Net: NetName=GND Pin=U39-11
+Added Pin To Net: NetName=NetC21_1 Pin=U40-1
+Added Pin To Net: NetName=NetC22_1 Pin=U40-2
+Added Pin To Net: NetName=GND Pin=U40-3
+Added Pin To Net: NetName=VCC 5V Pin=U40-4
+Added Pin To Net: NetName=NetR42_1 Pin=U40-8
+Added Pin To Net: NetName=NetR43_1 Pin=U40-9
+Added Pin To Net: NetName=NetLD3_K Pin=U40-10
+Added Pin To Net: NetName=NetLD4_K Pin=U40-11
+Added Pin To Net: NetName=DTR Pin=U40-13
+Added Pin To Net: NetName=SCK 16 Pin=U40-15
+Added Pin To Net: NetName=MOSI 16 Pin=U40-16
+Added Pin To Net: NetName=MISO 16 Pin=U40-17
+Added Pin To Net: NetName=RESET 16 Pin=U40-24
+Added Pin To Net: NetName=NetC24_2 Pin=U40-27
+Added Pin To Net: NetName=GND Pin=U40-28
+Added Pin To Net: NetName=NetR44_2 Pin=U40-29
+Added Pin To Net: NetName=NetR41_1 Pin=U40-30
+Added Pin To Net: NetName=VCC 5V USB Pin=U40-31
+Added Pin To Net: NetName=VCC 5V Pin=U40-32
+Added Pin To Net: NetName=VCC 3.3V Pin=U41-8
+Added Pin To Net: NetName=GND Pin=U41-15
+Added Pin To Net: NetName=NetR51_2 Pin=U41-21
+Added Pin To Net: NetName=NetMicroController1_12 Pin=U41-22
+Added Pin To Net: NetName=NetC21_1 Pin=X1-1
+Added Pin To Net: NetName=NetC22_1 Pin=X1-2
+Added Pin To Net: NetName=NetC28_1 Pin=X2-1
+Added Pin To Net: NetName=NetC27_1 Pin=X2-2
+Added Member To Class: ClassName=Sound Connector Member=Component * BuzzerChinois
+Added Member To Class: ClassName=Alim sch projet robot Member=Component Battery pins1 Header 2
+Added Member To Class: ClassName=Alim sch projet robot Member=Component C1 CAP_POL
+Added Member To Class: ClassName=Alim sch projet robot Member=Component C2 CAP_POL
+Added Member To Class: ClassName=Alim sch projet robot Member=Component C3 CAP_POL
+Added Member To Class: ClassName=Alim sch projet robot Member=Component C4 CAP_POL
+Added Member To Class: ClassName=Alim sch projet robot Member=Component C5 CAP_POL
+Added Member To Class: ClassName=Alim sch projet robot Member=Component C6 CAP_POL
+Added Member To Class: ClassName=Schema chargeur USB projet robot Member=Component C7 CAP_POL
+Added Member To Class: ClassName=Schema chargeur USB projet robot Member=Component C8 CAP_POL
+Added Member To Class: ClassName=CarteTxCapteurDistance 2 Member=Component C9 CAP
+Added Member To Class: ClassName=CarteTxCapteurDistance 2 Member=Component C10 CAP
+Added Member To Class: ClassName=CarteTxCapteurDistance 2 Member=Component C11 CAP
+Added Member To Class: ClassName=CarteTxCapteurDistance 2 Member=Component C12 CAP
+Added Member To Class: ClassName=CarteTxCapteurDistance 2 Member=Component C13 CAP
+Added Member To Class: ClassName=CarteTxMoteur Member=Component C17 CAP
+Added Member To Class: ClassName=CarteTxMoteur Member=Component C18 CAP
+Added Member To Class: ClassName=IA Core Member=Component C19 CAP
+Added Member To Class: ClassName=IA Core Member=Component C20 CAP
+Added Member To Class: ClassName=IA Core Member=Component C21 CAP
+Added Member To Class: ClassName=IA Core Member=Component C22 CAP
+Added Member To Class: ClassName=IA Core Member=Component C23 CAP
+Added Member To Class: ClassName=IA Core Member=Component C24 CAP
+Added Member To Class: ClassName=IA Core Member=Component C25 CAP
+Added Member To Class: ClassName=IA Core Member=Component C26 CAP
+Added Member To Class: ClassName=IA Core Member=Component C27 CAP
+Added Member To Class: ClassName=IA Core Member=Component C28 CAP
+Added Member To Class: ClassName=Wi fi connector Member=Component C29 CAP
+Added Member To Class: ClassName=Line driver connector Member=Component C30 CAP
+Added Member To Class: ClassName=MKbloc Connector Member=Component Capteur exte 1 RJ12_1
+Added Member To Class: ClassName=MKbloc Connector Member=Component Capteur exte 2 RJ12_FCI_Femelle
+Added Member To Class: ClassName=MKbloc Connector Member=Component Capteur exte 3 headers6
+Added Member To Class: ClassName=MKbloc Connector Member=Component Capteur exte 4 headers6
+Added Member To Class: ClassName=Alim sch projet robot Member=Component D1 SS32
+Added Member To Class: ClassName=Alim sch projet robot Member=Component D2 SS32
+Added Member To Class: ClassName=Alim sch projet robot Member=Component D3 SS32
+Added Member To Class: ClassName=CarteTxMoteur Member=Component D4 DiodeRedresseuse
+Added Member To Class: ClassName=CarteTxMoteur Member=Component D5 DiodeRedresseuse
+Added Member To Class: ClassName=CarteTxMoteur Member=Component D6 DiodeRedresseuse
+Added Member To Class: ClassName=CarteTxMoteur Member=Component D7 DiodeRedresseuse
+Added Member To Class: ClassName=CarteTxMoteur Member=Component D8 DiodeRedresseuse
+Added Member To Class: ClassName=CarteTxMoteur Member=Component D9 DiodeRedresseuse
+Added Member To Class: ClassName=CarteTxMoteur Member=Component D10 DiodeRedresseuse
+Added Member To Class: ClassName=CarteTxMoteur Member=Component D11 DiodeRedresseuse
+Added Member To Class: ClassName=IA Core Member=Component D12 DiodeRedresseuse
+Added Member To Class: ClassName=IA Core Member=Component D13 DiodeRedresseuse
+Added Member To Class: ClassName=Alim sch projet robot Member=Component D? DiodeRedresseuse
+Added Member To Class: ClassName=IA Core Member=Component ICSP 1 ISCP Arduino
+Added Member To Class: ClassName=IA Core Member=Component ICSP uC1 ISCP Arduino
+Added Member To Class: ClassName=Alim sch projet robot Member=Component L1 IND
+Added Member To Class: ClassName=Alim sch projet robot Member=Component L2 IND
+Added Member To Class: ClassName=Alim sch projet robot Member=Component L3 IND
+Added Member To Class: ClassName=Schema chargeur USB projet robot Member=Component LD1 comment
+Added Member To Class: ClassName=IA Core Member=Component LD2 Yellow
+Added Member To Class: ClassName=IA Core Member=Component LD3 Yellow
+Added Member To Class: ClassName=IA Core Member=Component LD4 Yellow
+Added Member To Class: ClassName=Schema chargeur USB projet robot Member=Component LED1 comment
+Added Member To Class: ClassName=IA Core Member=Component MicroController1 ATmega2560-16AU
+Added Member To Class: ClassName=CarteTxMoteur Member=Component Motor 1 Header 2
+Added Member To Class: ClassName=CarteTxMoteur Member=Component Motor 2 Header 2
+Added Member To Class: ClassName=TXRobot-Boutons Member=Component P1 Header 10
+Added Member To Class: ClassName=Line driver connector Member=Component P2 Header 6
+Added Member To Class: ClassName=IA Core Member=Component pullUpSCL RES
+Added Member To Class: ClassName=IA Core Member=Component pullUpSDA RES
+Added Member To Class: ClassName=Alim sch projet robot Member=Component R1 RES
+Added Member To Class: ClassName=Alim sch projet robot Member=Component R3 RES
+Added Member To Class: ClassName=Alim sch projet robot Member=Component R5 RES
+Added Member To Class: ClassName=Alim sch projet robot Member=Component R6 RES
+Added Member To Class: ClassName=Alim sch projet robot Member=Component R7 RES
+Added Member To Class: ClassName=Alim sch projet robot Member=Component R8 RES
+Added Member To Class: ClassName=Schema chargeur USB projet robot Member=Component R9 RES
+Added Member To Class: ClassName=Schema chargeur USB projet robot Member=Component R10 RES
+Added Member To Class: ClassName=Schema chargeur USB projet robot Member=Component R11 RES
+Added Member To Class: ClassName=CarteTxCapteurDistance 2 Member=Component R27 RES
+Added Member To Class: ClassName=CarteTxCapteurDistance 2 Member=Component R28 RES
+Added Member To Class: ClassName=CarteTxCapteurDistance 2 Member=Component R29 RES
+Added Member To Class: ClassName=CarteTxCapteurDistance 2 Member=Component R30 RES
+Added Member To Class: ClassName=CarteTxCapteurDistance 2 Member=Component R31 RES
+Added Member To Class: ClassName=CarteTxCapteurDistance 2 Member=Component R32 RES
+Added Member To Class: ClassName=CarteTxMoteur Member=Component R33 RES
+Added Member To Class: ClassName=CarteTxMoteur Member=Component R34 RES
+Added Member To Class: ClassName=CarteTxMoteur Member=Component R35 RES
+Added Member To Class: ClassName=CarteTxMoteur Member=Component R36 RES
+Added Member To Class: ClassName=CarteTxMoteur Member=Component R37 RES
+Added Member To Class: ClassName=CarteTxMoteur Member=Component R38 RES
+Added Member To Class: ClassName=IA Core Member=Component R39 RES
+Added Member To Class: ClassName=IA Core Member=Component R40 RES
+Added Member To Class: ClassName=IA Core Member=Component R41 RES
+Added Member To Class: ClassName=IA Core Member=Component R42 RES
+Added Member To Class: ClassName=IA Core Member=Component R43 RES
+Added Member To Class: ClassName=IA Core Member=Component R44 RES
+Added Member To Class: ClassName=IA Core Member=Component R45 RES
+Added Member To Class: ClassName=IA Core Member=Component R46 RES
+Added Member To Class: ClassName=IA Core Member=Component R47 RES
+Added Member To Class: ClassName=IA Core Member=Component R48 RES
+Added Member To Class: ClassName=IA Core Member=Component R49 RES
+Added Member To Class: ClassName=IA Core Member=Component R50 RES
+Added Member To Class: ClassName=Wi fi connector Member=Component R51 RES
+Added Member To Class: ClassName=Wi fi connector Member=Component R52 RES
+Added Member To Class: ClassName=Alim sch projet robot Member=Component SW1 allumage
+Added Member To Class: ClassName=LED Matrix connector Member=Component To LED Matrix1 Header 5
+Added Member To Class: ClassName=Alim sch projet robot Member=Component U1 LM2731
+Added Member To Class: ClassName=Alim sch projet robot Member=Component U3 LM2731
+Added Member To Class: ClassName=Alim sch projet robot Member=Component U4 LMR10510XMF
+Added Member To Class: ClassName=Schema chargeur USB projet robot Member=Component U5 MCP73831
+Added Member To Class: ClassName=CarteTxCapteurDistance 2 Member=Component U21 infrared
+Added Member To Class: ClassName=CarteTxCapteurDistance 2 Member=Component U22 infrared
+Added Member To Class: ClassName=CarteTxCapteurDistance 2 Member=Component U23 Transistors
+Added Member To Class: ClassName=CarteTxCapteurDistance 2 Member=Component U24 Transistors
+Added Member To Class: ClassName=CarteTxCapteurDistance 2 Member=Component U25 Transistors
+Added Member To Class: ClassName=CarteTxCapteurDistance 2 Member=Component U26 Transistors
+Added Member To Class: ClassName=CarteTxCapteurDistance 2 Member=Component U27 LedRgbWs2812b
+Added Member To Class: ClassName=CarteTxCapteurDistance 2 Member=Component U28 LedRgbWs2812b
+Added Member To Class: ClassName=CarteTxCapteurDistance 2 Member=Component U29 LedRgbWs2812b
+Added Member To Class: ClassName=CarteTxCapteurDistance 2 Member=Component U30 LedRgbWs2812b
+Added Member To Class: ClassName=CarteTxCapteurDistance 2 Member=Component U31 LedRgbWs2812b
+Added Member To Class: ClassName=CarteTxCapteurDistance 2 Member=Component U32 LedRgbWs2812b
+Added Member To Class: ClassName=CarteTxMoteur Member=Component U35 ITR9608
+Added Member To Class: ClassName=CarteTxMoteur Member=Component U36 MCP6002
+Added Member To Class: ClassName=CarteTxMoteur Member=Component U37 ITR9608
+Added Member To Class: ClassName=CarteTxMoteur Member=Component U38 L293NE
+Added Member To Class: ClassName=IA Core Member=Component U39 USB microB
+Added Member To Class: ClassName=IA Core Member=Component U40 ATmega16U2-AU
+Added Member To Class: ClassName=Wi fi connector Member=Component U41 ESP8266MOD
+Added Member To Class: ClassName=IA Core Member=Component X1 16MHz
+Added Member To Class: ClassName=IA Core Member=Component X2 16MHz

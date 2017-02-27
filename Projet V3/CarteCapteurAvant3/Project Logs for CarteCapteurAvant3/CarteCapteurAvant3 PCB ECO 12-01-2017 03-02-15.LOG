@@ -1,0 +1,29 @@
+Added Component: Designator=RGB1(LedRgbWs2812b)
+Added Component: Designator=RGB2(LedRgbWs2812b)
+Added Component: Designator=RGB3(LedRgbWs2812b)
+Added Component: Designator=RGB4(LedRgbWs2812b)
+Added Component: Designator=RGB5(LedRgbWs2812b)
+Added Pin To Net: NetName=RGB LED FRONT Pin=RGB1-din
+Added Pin To Net: NetName=NetRGB1_dout Pin=RGB1-dout
+Added Pin To Net: NetName=GND Pin=RGB1-GND
+Added Pin To Net: NetName=VCC 5V Pin=RGB1-VCC
+Added Pin To Net: NetName=NetRGB1_dout Pin=RGB2-din
+Added Pin To Net: NetName=NetRGB2_dout Pin=RGB2-dout
+Added Pin To Net: NetName=GND Pin=RGB2-GND
+Added Pin To Net: NetName=VCC 5V Pin=RGB2-VCC
+Added Pin To Net: NetName=NetRGB2_dout Pin=RGB3-din
+Added Pin To Net: NetName=NetRGB3_dout Pin=RGB3-dout
+Added Pin To Net: NetName=GND Pin=RGB3-GND
+Added Pin To Net: NetName=VCC 5V Pin=RGB3-VCC
+Added Pin To Net: NetName=NetRGB3_dout Pin=RGB4-din
+Added Pin To Net: NetName=NetRGB4_dout Pin=RGB4-dout
+Added Pin To Net: NetName=GND Pin=RGB4-GND
+Added Pin To Net: NetName=VCC 5V Pin=RGB4-VCC
+Added Pin To Net: NetName=NetRGB4_dout Pin=RGB5-din
+Added Pin To Net: NetName=GND Pin=RGB5-GND
+Added Pin To Net: NetName=VCC 5V Pin=RGB5-VCC
+Added Member To Class: ClassName=CarteCapteurAvant3 Member=Component RGB1 LedRgbWs2812b
+Added Member To Class: ClassName=CarteCapteurAvant3 Member=Component RGB2 LedRgbWs2812b
+Added Member To Class: ClassName=CarteCapteurAvant3 Member=Component RGB3 LedRgbWs2812b
+Added Member To Class: ClassName=CarteCapteurAvant3 Member=Component RGB4 LedRgbWs2812b
+Added Member To Class: ClassName=CarteCapteurAvant3 Member=Component RGB5 LedRgbWs2812b

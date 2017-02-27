@@ -1,0 +1,35 @@
+Added Component: Designator=LedRgbWs2812b1(LedRgbWs2812b)
+Added Component: Designator=LedRgbWs2812b2(LedRgbWs2812b)
+Added Component: Designator=LedRgbWs2812b3(LedRgbWs2812b)
+Added Component: Designator=LedRgbWs2812b4(LedRgbWs2812b)
+Added Component: Designator=LedRgbWs2812b5(LedRgbWs2812b)
+Added Component: Designator=LedRgbWs2812b6(LedRgbWs2812b)
+Added Pin To Net: NetName=D3 Pin=LedRgbWs2812b1-din
+Added Pin To Net: NetName=NetLedRgbWs2812b1_dout Pin=LedRgbWs2812b1-dout
+Added Pin To Net: NetName=GND Pin=LedRgbWs2812b1-GND
+Added Pin To Net: NetName=VCC Pin=LedRgbWs2812b1-VCC
+Added Pin To Net: NetName=NetLedRgbWs2812b1_dout Pin=LedRgbWs2812b2-din
+Added Pin To Net: NetName=NetLedRgbWs2812b2_dout Pin=LedRgbWs2812b2-dout
+Added Pin To Net: NetName=GND Pin=LedRgbWs2812b2-GND
+Added Pin To Net: NetName=VCC Pin=LedRgbWs2812b2-VCC
+Added Pin To Net: NetName=NetLedRgbWs2812b2_dout Pin=LedRgbWs2812b3-din
+Added Pin To Net: NetName=NetLedRgbWs2812b3_dout Pin=LedRgbWs2812b3-dout
+Added Pin To Net: NetName=GND Pin=LedRgbWs2812b3-GND
+Added Pin To Net: NetName=VCC Pin=LedRgbWs2812b3-VCC
+Added Pin To Net: NetName=NetLedRgbWs2812b3_dout Pin=LedRgbWs2812b4-din
+Added Pin To Net: NetName=NetLedRgbWs2812b4_dout Pin=LedRgbWs2812b4-dout
+Added Pin To Net: NetName=GND Pin=LedRgbWs2812b4-GND
+Added Pin To Net: NetName=VCC Pin=LedRgbWs2812b4-VCC
+Added Pin To Net: NetName=NetLedRgbWs2812b4_dout Pin=LedRgbWs2812b5-din
+Added Pin To Net: NetName=NetLedRgbWs2812b5_dout Pin=LedRgbWs2812b5-dout
+Added Pin To Net: NetName=GND Pin=LedRgbWs2812b5-GND
+Added Pin To Net: NetName=VCC Pin=LedRgbWs2812b5-VCC
+Added Pin To Net: NetName=NetLedRgbWs2812b5_dout Pin=LedRgbWs2812b6-din
+Added Pin To Net: NetName=GND Pin=LedRgbWs2812b6-GND
+Added Pin To Net: NetName=VCC Pin=LedRgbWs2812b6-VCC
+Added Member To Class: ClassName=CarteTxCapteurDistance Member=Component LedRgbWs2812b1 LedRgbWs2812b
+Added Member To Class: ClassName=CarteTxCapteurDistance Member=Component LedRgbWs2812b2 LedRgbWs2812b
+Added Member To Class: ClassName=CarteTxCapteurDistance Member=Component LedRgbWs2812b3 LedRgbWs2812b
+Added Member To Class: ClassName=CarteTxCapteurDistance Member=Component LedRgbWs2812b4 LedRgbWs2812b
+Added Member To Class: ClassName=CarteTxCapteurDistance Member=Component LedRgbWs2812b5 LedRgbWs2812b
+Added Member To Class: ClassName=CarteTxCapteurDistance Member=Component LedRgbWs2812b6 LedRgbWs2812b

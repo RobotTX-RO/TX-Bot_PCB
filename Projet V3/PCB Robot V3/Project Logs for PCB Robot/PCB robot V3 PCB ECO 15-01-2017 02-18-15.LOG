@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=NetCapteur exte 2_2 Pin=MicroController1-94
+Added Pin To Net: NetName=NetCapteur exte 2_1 Pin=MicroController1-95
+Added Pin To Net: NetName=NetMicroController1_45 Pin=MicroController1-45
+Added Pin To Net: NetName=NetMicroController1_45 Pin=U36-7
+Added Net: Name=NetMicroController1_45
+Added Pin To Net: NetName=NetMicroController1_46 Pin=MicroController1-46
+Added Pin To Net: NetName=NetMicroController1_46 Pin=U36-1
+Added Net: Name=NetMicroController1_46

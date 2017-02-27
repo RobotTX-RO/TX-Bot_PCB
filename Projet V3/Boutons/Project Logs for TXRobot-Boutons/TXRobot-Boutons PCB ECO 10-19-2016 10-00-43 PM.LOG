@@ -1,0 +1,96 @@
+Added Component: Designator=ButtonBack(SwitchMedium)
+Added Component: Designator=ButtonCentre(SwitchMedium)
+Added Component: Designator=ButtonCo(HE10-10V)
+Added Component: Designator=ButtonFront(SwitchMedium)
+Added Component: Designator=ButtonLeft(SwitchMedium)
+Added Component: Designator=ButtonRight(SwitchMedium)
+Added Component: Designator=CARBack(0805)
+Added Component: Designator=CARBack(0805)
+Added Component: Designator=CARFront(0805)
+Added Component: Designator=CARLeft(0805)
+Added Component: Designator=CARRight(0805)
+Added Component: Designator=Ledtop(LED1206)
+Added Component: Designator=Rledtop(0805)
+Added Component: Designator=Rledtrans(0805)
+Added Component: Designator=RpullupBack(0805)
+Added Component: Designator=RpullupCentre(0805)
+Added Component: Designator=RpullupFront(0805)
+Added Component: Designator=RpullupLeft(0805)
+Added Component: Designator=RpullupRight(0805)
+Added Component: Designator=T1(BC817-40)
+Added Component: Designator=T2(BC817-40)
+Added Pin To Net: NetName=GND Pin=ButtonBack-3
+Added Pin To Net: NetName=GND Pin=ButtonBack-4
+Added Pin To Net: NetName=GND Pin=ButtonCentre-3
+Added Pin To Net: NetName=GND Pin=ButtonCentre-4
+Added Pin To Net: NetName=GND Pin=ButtonCo-4
+Added Pin To Net: NetName=GND Pin=ButtonCo-6
+Added Pin To Net: NetName=GND Pin=ButtonCo-8
+Added Pin To Net: NetName=GND Pin=ButtonFront-3
+Added Pin To Net: NetName=GND Pin=ButtonFront-4
+Added Pin To Net: NetName=GND Pin=ButtonLeft-3
+Added Pin To Net: NetName=GND Pin=ButtonLeft-4
+Added Pin To Net: NetName=GND Pin=ButtonRight-3
+Added Pin To Net: NetName=GND Pin=ButtonRight-4
+Added Pin To Net: NetName=GND Pin=CARBack-2
+Added Pin To Net: NetName=GND Pin=CARBack-2
+Added Pin To Net: NetName=GND Pin=CARFront-2
+Added Pin To Net: NetName=GND Pin=CARLeft-2
+Added Pin To Net: NetName=GND Pin=CARRight-2
+Added Pin To Net: NetName=GND Pin=Rledtop-1
+Added Pin To Net: NetName=GND Pin=T2-2
+Added Net: Name=GND
+Added Pin To Net: NetName=LED Pin=ButtonCo-2
+Added Pin To Net: NetName=LED Pin=Rledtrans-2
+Added Net: Name=LED
+Added Pin To Net: NetName=NetButtonBack_1 Pin=ButtonBack-1
+Added Pin To Net: NetName=NetButtonBack_1 Pin=ButtonBack-2
+Added Pin To Net: NetName=NetButtonBack_1 Pin=ButtonCo-7
+Added Pin To Net: NetName=NetButtonBack_1 Pin=CARBack-1
+Added Pin To Net: NetName=NetButtonBack_1 Pin=RpullupBack-1
+Added Net: Name=NetButtonBack_1
+Added Pin To Net: NetName=NetButtonCentre_1 Pin=ButtonCentre-1
+Added Pin To Net: NetName=NetButtonCentre_1 Pin=ButtonCentre-2
+Added Pin To Net: NetName=NetButtonCentre_1 Pin=ButtonCo-9
+Added Pin To Net: NetName=NetButtonCentre_1 Pin=CARBack-1
+Added Pin To Net: NetName=NetButtonCentre_1 Pin=RpullupCentre-1
+Added Net: Name=NetButtonCentre_1
+Added Pin To Net: NetName=NetButtonCo_1 Pin=ButtonCo-1
+Added Pin To Net: NetName=NetButtonCo_1 Pin=ButtonFront-1
+Added Pin To Net: NetName=NetButtonCo_1 Pin=ButtonFront-2
+Added Pin To Net: NetName=NetButtonCo_1 Pin=CARFront-1
+Added Pin To Net: NetName=NetButtonCo_1 Pin=RpullupFront-1
+Added Net: Name=NetButtonCo_1
+Added Pin To Net: NetName=NetButtonCo_3 Pin=ButtonCo-3
+Added Pin To Net: NetName=NetButtonCo_3 Pin=ButtonLeft-1
+Added Pin To Net: NetName=NetButtonCo_3 Pin=ButtonLeft-2
+Added Pin To Net: NetName=NetButtonCo_3 Pin=CARLeft-1
+Added Pin To Net: NetName=NetButtonCo_3 Pin=RpullupLeft-1
+Added Net: Name=NetButtonCo_3
+Added Pin To Net: NetName=NetButtonCo_5 Pin=ButtonCo-5
+Added Pin To Net: NetName=NetButtonCo_5 Pin=ButtonRight-1
+Added Pin To Net: NetName=NetButtonCo_5 Pin=ButtonRight-2
+Added Pin To Net: NetName=NetButtonCo_5 Pin=CARRight-1
+Added Pin To Net: NetName=NetButtonCo_5 Pin=RpullupRight-1
+Added Net: Name=NetButtonCo_5
+Added Pin To Net: NetName=NetLedtop_K Pin=Ledtop-K
+Added Pin To Net: NetName=NetLedtop_K Pin=T1-3
+Added Net: Name=NetLedtop_K
+Added Pin To Net: NetName=NetRledtop_2 Pin=Rledtop-2
+Added Pin To Net: NetName=NetRledtop_2 Pin=T1-2
+Added Pin To Net: NetName=NetRledtop_2 Pin=T2-1
+Added Net: Name=NetRledtop_2
+Added Pin To Net: NetName=NetRledtrans_1 Pin=Rledtrans-1
+Added Pin To Net: NetName=NetRledtrans_1 Pin=T1-1
+Added Pin To Net: NetName=NetRledtrans_1 Pin=T2-3
+Added Net: Name=NetRledtrans_1
+Added Pin To Net: NetName=VCC5V Pin=ButtonCo-10
+Added Pin To Net: NetName=VCC5V Pin=Ledtop-A
+Added Pin To Net: NetName=VCC5V Pin=RpullupBack-2
+Added Pin To Net: NetName=VCC5V Pin=RpullupCentre-2
+Added Pin To Net: NetName=VCC5V Pin=RpullupFront-2
+Added Pin To Net: NetName=VCC5V Pin=RpullupLeft-2
+Added Pin To Net: NetName=VCC5V Pin=RpullupRight-2
+Added Net: Name=VCC5V
+Added Class: Name=TXRobot-Boutons
+Added Room: Name=TXRobot-Boutons

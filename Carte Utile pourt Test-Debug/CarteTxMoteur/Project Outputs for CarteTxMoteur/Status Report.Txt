@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [CarteTxMoteur.PrjPcb]
+   Generated File[CarteTxMoteur.TXT]
+   Generated File[CarteTxMoteur.LDP]
+   Generated File[CarteTxMoteur.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 17:44:23 On 22/11/2016

@@ -1,0 +1,6 @@
+Added Component: Designator=AP7331 voltage regulator(AP7331)
+Added Pin To Net: NetName=VCC 5V Pin=AP7331 voltage regulator-1
+Added Pin To Net: NetName=GND Pin=AP7331 voltage regulator-2
+Added Pin To Net: NetName=VCC 5V Pin=AP7331 voltage regulator-3
+Added Pin To Net: NetName=VCC 3.3V Pin=AP7331 voltage regulator-5
+Added Member To Class: ClassName=Alim sch projet robot Member=Component AP7331 voltage regulator AP7331

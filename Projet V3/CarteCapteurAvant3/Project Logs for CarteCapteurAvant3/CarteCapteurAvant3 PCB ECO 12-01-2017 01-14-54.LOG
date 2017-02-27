@@ -1,0 +1,12 @@
+Change Component Designator: OldDesignator=U6 NewDesignator=IR5
+Change Component Designator: OldDesignator=U7 NewDesignator=IR4
+Change Component Designator: OldDesignator=U8 NewDesignator=IR3
+Change Component Designator: OldDesignator=U9 NewDesignator=IR2
+Change Component Designator: OldDesignator=U10 NewDesignator=IR1
+Change Net Name : Old Net Name=NetU6_gndEmitter New Net Name=NetIR5_gndEmitter
+Change Net Name : Old Net Name=NetU7_gndEmitter New Net Name=NetIR4_gndEmitter
+Change Net Name : Old Net Name=NetU8_gndEmitter New Net Name=NetIR3_gndEmitter
+Change Net Name : Old Net Name=NetU9_gndEmitter New Net Name=NetIR2_gndEmitter
+Change Net Name : Old Net Name=NetU10_gndEmitter New Net Name=NetIR1_gndEmitter
+Added Member To Class: ClassName=CarteCapteurAvant3 Member=Component IR5 infrared
+Added Room: Name=CarteCapteurAvant3

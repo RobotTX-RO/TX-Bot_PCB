@@ -1,0 +1,11 @@
+Removed Member From Class: ClassName=Line driver connector Member=P2
+Added Component: Designator=C31(0805)
+Added Pin To Net: NetName=VCC 5V Pin=C30-1
+Added Pin To Net: NetName=GND Pin=C30-2
+Added Pin To Net: NetName=VCC 5V Pin=C31-1
+Added Pin To Net: NetName=GND Pin=C31-2
+Added Member To Class: ClassName=Sound Connector Member=Component * BuzzerChinois
+Added Member To Class: ClassName=Line driver connector Member=Component C31 CAP
+Added Member To Class: ClassName=Line driver connector Member=Component Connecteur 11-20 comment
+Added Room: Name=Sound Connector
+Added Room: Name=TXRobot-Boutons

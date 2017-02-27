@@ -1,0 +1,271 @@
+Added Component: Designator=*?(TCRT5000 Droit)
+Added Component: Designator=*?(TCRT5000 Droit)
+Added Component: Designator=C?(RB.1/.2)
+Added Component: Designator=C?(RB.1/.2)
+Added Component: Designator=C?(0805)
+Added Component: Designator=C?(0805)
+Added Component: Designator=C?(0805)
+Added Component: Designator=C?(0805)
+Added Component: Designator=C?(0805)
+Added Component: Designator=C?(0805)
+Added Component: Designator=C?(0805)
+Added Component: Designator=C?(0805)
+Added Component: Designator=C?(0805)
+Added Component: Designator=C?(0805)
+Added Component: Designator=C?(0805)
+Added Component: Designator=C?(0805)
+Added Component: Designator=C?(0805)
+Added Component: Designator=C?(RB.1/.2)
+Added Component: Designator=C?(RB.1/.2)
+Added Component: Designator=C?(RB.1/.2)
+Added Component: Designator=C?(0805)
+Added Component: Designator=C?(RB.1/.2)
+Added Component: Designator=D?(Schottly Diode SS32 footprint)
+Added Component: Designator=D?(Schottly Diode SS32 footprint)
+Added Component: Designator=infrared(Infrared)
+Added Component: Designator=infrared(Infrared)
+Added Component: Designator=infrared(Infrared)
+Added Component: Designator=infrared(Infrared)
+Added Component: Designator=infrared(Infrared)
+Added Component: Designator=infrared(Infrared)
+Added Component: Designator=infrared(Infrared)
+Added Component: Designator=L?(1050)
+Added Component: Designator=L?(1050)
+Added Component: Designator=LD?(LED0805)
+Added Component: Designator=LED?(LED0805)
+Added Component: Designator=LedRgbWs2812b(LedRgbWs2812b)
+Added Component: Designator=LedRgbWs2812b(LedRgbWs2812b)
+Added Component: Designator=LedRgbWs2812b(LedRgbWs2812b)
+Added Component: Designator=LedRgbWs2812b(LedRgbWs2812b)
+Added Component: Designator=LedRgbWs2812b(LedRgbWs2812b)
+Added Component: Designator=LedRgbWs2812b(LedRgbWs2812b)
+Added Component: Designator=LedRgbWs2812b(LedRgbWs2812b)
+Added Component: Designator=LedRgbWs2812b(LedRgbWs2812b)
+Added Component: Designator=LedRgbWs2812b(LedRgbWs2812b)
+Added Component: Designator=LedRgbWs2812b(LedRgbWs2812b)
+Added Component: Designator=P?(HDR1X2)
+Added Component: Designator=R?(0805)
+Added Component: Designator=R?(0805)
+Added Component: Designator=R?(0805)
+Added Component: Designator=R?(0805)
+Added Component: Designator=R?(0805)
+Added Component: Designator=R?(0805)
+Added Component: Designator=R?(0805)
+Added Component: Designator=R?(0805)
+Added Component: Designator=R?(0805)
+Added Component: Designator=R?(0805)
+Added Component: Designator=R?(0805)
+Added Component: Designator=R?(0805)
+Added Component: Designator=R?(0805)
+Added Component: Designator=R?(0805)
+Added Component: Designator=R?(0805)
+Added Component: Designator=R?(0805)
+Added Component: Designator=R?(0805)
+Added Component: Designator=R?(0805)
+Added Component: Designator=R?(0805)
+Added Component: Designator=R?(0805)
+Added Component: Designator=R?(0805)
+Added Component: Designator=R?(0805)
+Added Component: Designator=R?(0805)
+Added Component: Designator=R?(0805)
+Added Component: Designator=R?(0805)
+Added Component: Designator=R?(0805)
+Added Component: Designator=R?(0805)
+Added Component: Designator=R?(0805)
+Added Component: Designator=R?(0805)
+Added Component: Designator=R?(0805)
+Added Component: Designator=R?(0805)
+Added Component: Designator=R?(0805)
+Added Component: Designator=R?(0805)
+Added Component: Designator=R?(0805)
+Added Component: Designator=U?(MCP73831)
+Added Component: Designator=U?(BC817-40)
+Added Component: Designator=U?(BC817-40)
+Added Component: Designator=U?(BC817-40)
+Added Component: Designator=U?(BC817-40)
+Added Component: Designator=U?(BC817-40)
+Added Component: Designator=U?(BC817-40)
+Added Component: Designator=U?(BC817-40)
+Added Component: Designator=U?(BC817-40)
+Added Component: Designator=U?(BC817-40)
+Added Component: Designator=U?(BC817-40)
+Added Component: Designator=U?(BC817-40)
+Added Component: Designator=U?(BC817-40)
+Added Component: Designator=U?(BC817-40)
+Added Component: Designator=U?(BC817-40)
+Added Component: Designator=U?(BC817-40)
+Added Component: Designator=U?(BC817-40)
+Added Component: Designator=U?(BC817-40)
+Added Component: Designator=U?(BC817-40)
+Added Component: Designator=U?(LM2731 footprint)
+Added Component: Designator=U?(LM2731 footprint)
+Added Pin To Net: NetName=VCC5V Pin=*?-2
+Added Pin To Net: NetName=VCC5V Pin=*?-2
+Added Pin To Net: NetName=BATTERY Pin=C?-1
+Added Pin To Net: NetName=BATTERY Pin=C?-1
+Added Pin To Net: NetName=BATTERY Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=VCC5V Pin=C?-1
+Added Pin To Net: NetName=VCC5V Pin=C?-1
+Added Pin To Net: NetName=VCC Pin=C?-1
+Added Pin To Net: NetName=VCC Pin=C?-1
+Added Pin To Net: NetName=VCC Pin=C?-1
+Added Pin To Net: NetName=VCC Pin=C?-1
+Added Pin To Net: NetName=VCC Pin=C?-1
+Added Pin To Net: NetName=VCC Pin=C?-1
+Added Pin To Net: NetName=VCC Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=VCC5V Pin=C?-2
+Added Pin To Net: NetName=VCC5V Pin=C?-2
+Added Pin To Net: NetName=VCC5V Pin=C?-2
+Added Pin To Net: NetName=VCC Pin=D?-1
+Added Pin To Net: NetName=VCC Pin=infrared-VCC
+Added Pin To Net: NetName=VCC Pin=infrared-VCC
+Added Pin To Net: NetName=VCC Pin=infrared-VCC
+Added Pin To Net: NetName=VCC Pin=infrared-VCC
+Added Pin To Net: NetName=VCC Pin=infrared-VCC
+Added Pin To Net: NetName=VCC Pin=infrared-VCC
+Added Pin To Net: NetName=VCC Pin=infrared-VCC
+Added Pin To Net: NetName=VCC Pin=infrared-VCC
+Added Pin To Net: NetName=VCC Pin=infrared-VCC
+Added Pin To Net: NetName=VCC Pin=infrared-VCC
+Added Pin To Net: NetName=VCC Pin=infrared-VCC
+Added Pin To Net: NetName=VCC Pin=infrared-VCC
+Added Pin To Net: NetName=VCC Pin=infrared-VCC
+Added Pin To Net: NetName=VCC Pin=infrared-VCC
+Added Pin To Net: NetName=BATTERY Pin=L?-1
+Added Pin To Net: NetName=BATTERY Pin=L?-1
+Added Pin To Net: NetName=GND Pin=LedRgbWs2812b-GND
+Added Pin To Net: NetName=GND Pin=LedRgbWs2812b-GND
+Added Pin To Net: NetName=GND Pin=LedRgbWs2812b-GND
+Added Pin To Net: NetName=GND Pin=LedRgbWs2812b-GND
+Added Pin To Net: NetName=GND Pin=LedRgbWs2812b-GND
+Added Pin To Net: NetName=VCC Pin=LedRgbWs2812b-VCC
+Added Pin To Net: NetName=VCC Pin=LedRgbWs2812b-VCC
+Added Pin To Net: NetName=VCC Pin=LedRgbWs2812b-VCC
+Added Pin To Net: NetName=VCC Pin=LedRgbWs2812b-VCC
+Added Pin To Net: NetName=VCC Pin=LedRgbWs2812b-VCC
+Added Pin To Net: NetName=VCC Pin=LedRgbWs2812b-VCC
+Added Pin To Net: NetName=VCC Pin=LedRgbWs2812b-VCC
+Added Pin To Net: NetName=VCC Pin=LedRgbWs2812b-VCC
+Added Pin To Net: NetName=VCC Pin=LedRgbWs2812b-VCC
+Added Pin To Net: NetName=VCC Pin=LedRgbWs2812b-VCC
+Added Pin To Net: NetName=GND Pin=P?-1
+Added Pin To Net: NetName=BATTERY Pin=P?-2
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=VCC5V Pin=R?-2
+Added Pin To Net: NetName=VCC5V Pin=R?-2
+Added Pin To Net: NetName=VCC Pin=R?-2
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=BATTERY Pin=U?-4
+Added Pin To Net: NetName=BATTERY Pin=U?-4
+Added Pin To Net: NetName=BATTERY Pin=U?-5
+Added Pin To Net: NetName=BATTERY Pin=U?-5
+Added Pin To Net: NetName=Net*?_1 Pin=*?-1
+Added Pin To Net: NetName=Net*?_1 Pin=C?-1
+Added Pin To Net: NetName=Net*?_1 Pin=R?-1
+Added Net: Name=Net*?_1
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=U?-3
+Added Net: Name=NetC?_1
+Added Pin To Net: NetName=NetD?_2 Pin=D?-2
+Added Pin To Net: NetName=NetD?_2 Pin=L?-2
+Added Pin To Net: NetName=NetD?_2 Pin=U?-1
+Added Net: Name=NetD?_2
+Added Pin To Net: NetName=Netinfrared_gndEmitter Pin=infrared-gndEmitter
+Added Pin To Net: NetName=Netinfrared_gndEmitter Pin=U?-3
+Added Net: Name=Netinfrared_gndEmitter
+Added Pin To Net: NetName=Netinfrared_gndReceiver Pin=infrared-gndReceiver
+Added Pin To Net: NetName=Netinfrared_gndReceiver Pin=R?-1
+Added Net: Name=Netinfrared_gndReceiver
+Added Pin To Net: NetName=NetLD?_K Pin=LD?-K
+Added Pin To Net: NetName=NetLD?_K Pin=R?-1
+Added Net: Name=NetLD?_K
+Added Pin To Net: NetName=NetLED?_A Pin=LED?-A
+Added Pin To Net: NetName=NetLED?_A Pin=R?-2
+Added Pin To Net: NetName=NetLED?_A Pin=U?-1
+Added Net: Name=NetLED?_A
+Added Pin To Net: NetName=NetLED?_K Pin=LED?-K
+Added Pin To Net: NetName=NetLED?_K Pin=R?-1
+Added Net: Name=NetLED?_K
+Added Pin To Net: NetName=NetLedRgbWs2812b_din Pin=LedRgbWs2812b-din
+Added Pin To Net: NetName=NetLedRgbWs2812b_din Pin=LedRgbWs2812b-dout
+Added Net: Name=NetLedRgbWs2812b_din
+Added Pin To Net: NetName=NetLedRgbWs2812b_GND Pin=LedRgbWs2812b-GND
+Added Pin To Net: NetName=NetLedRgbWs2812b_GND Pin=LedRgbWs2812b-GND
+Added Pin To Net: NetName=NetLedRgbWs2812b_GND Pin=LedRgbWs2812b-GND
+Added Pin To Net: NetName=NetLedRgbWs2812b_GND Pin=LedRgbWs2812b-GND
+Added Pin To Net: NetName=NetLedRgbWs2812b_GND Pin=LedRgbWs2812b-GND
+Added Net: Name=NetLedRgbWs2812b_GND
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=U?-5
+Added Net: Name=NetR?_1
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=U?-1
+Added Net: Name=NetR?_2
+Added Member To Class: ClassName=Driver Ligne 2 Member=Component *? TCRT5000
+Added Member To Class: ClassName=Alim sch projet robot Member=Component C? CAP
+Added Member To Class: ClassName=CarteTxCapteurDistance 2 Member=Component C? CAP
+Added Member To Class: ClassName=Driver Ligne 2 Member=Component C? CAP
+Added Member To Class: ClassName=Schema chargeur USB projet robot Member=Component C? CAP_POL
+Added Member To Class: ClassName=Alim sch projet robot Member=Component D? SS32
+Added Member To Class: ClassName=CarteTxCapteurDistance 2 Member=Component infrared
+Added Member To Class: ClassName=Alim sch projet robot Member=Component L? Shielded inductor
+Added Member To Class: ClassName=Schema chargeur USB projet robot Member=Component LD? comment
+Added Member To Class: ClassName=Schema chargeur USB projet robot Member=Component LED? comment
+Added Member To Class: ClassName=CarteTxCapteurDistance 2 Member=Component LedRgbWs2812b
+Added Member To Class: ClassName=Alim sch projet robot Member=Component P? Header 2
+Added Member To Class: ClassName=Alim sch projet robot Member=Component R? RES
+Added Member To Class: ClassName=CarteTxCapteurDistance 2 Member=Component R? RES
+Added Member To Class: ClassName=Driver Ligne 2 Member=Component R? RES
+Added Member To Class: ClassName=Schema chargeur USB projet robot Member=Component R? RES
+Added Member To Class: ClassName=Alim sch projet robot Member=Component U? LM2731
+Added Member To Class: ClassName=CarteTxCapteurDistance 2 Member=Component U? Transistors
+Added Member To Class: ClassName=Driver Ligne 2 Member=Component U? Transistors
+Added Member To Class: ClassName=Schema chargeur USB projet robot Member=Component U? MCP73831

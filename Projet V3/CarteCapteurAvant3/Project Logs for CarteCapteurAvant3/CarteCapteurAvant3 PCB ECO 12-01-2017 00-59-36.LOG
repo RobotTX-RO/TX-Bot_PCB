@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=RIGHTSENSORCOMMAND Pin=R18-1
+Added Pin To Net: NetName=MIDRIGHTSENSORCOMMAND Pin=R18-1
+Added Member To Class: ClassName=CarteCapteurAvant3 Member=Component U6 infrared
+Added Room: Name=CarteCapteurAvant3

@@ -1,0 +1,16 @@
+Change Component Designator: OldDesignator=AP7331  NewDesignator=AP7331 voltage regulator
+Added Component: Designator=Capteur exte 3(Headers6)
+Added Component: Designator=Capteur exte 4(Headers6)
+Added Pin To Net: NetName=NetCapteur exte 3_1 Pin=Capteur exte 3-1
+Added Pin To Net: NetName=NetCapteur exte 3_2 Pin=Capteur exte 3-2
+Added Pin To Net: NetName=VCC 5V Pin=Capteur exte 3-3
+Added Pin To Net: NetName=GND Pin=Capteur exte 3-4
+Added Pin To Net: NetName=NetCapteur exte 1_5 Pin=Capteur exte 3-5
+Added Pin To Net: NetName=NetCapteur exte 1_6 Pin=Capteur exte 3-6
+Added Pin To Net: NetName=NetCapteur exte 4_1 Pin=Capteur exte 4-1
+Added Pin To Net: NetName=NetCapteur exte 4_2 Pin=Capteur exte 4-2
+Added Pin To Net: NetName=VCC 5V Pin=Capteur exte 4-3
+Added Pin To Net: NetName=GND Pin=Capteur exte 4-4
+Added Pin To Net: NetName=NetCapteur exte 4_5 Pin=Capteur exte 4-5
+Added Member To Class: ClassName=MKbloc Connector Member=Component Capteur exte 3 headers6
+Added Member To Class: ClassName=MKbloc Connector Member=Component Capteur exte 4 headers6

@@ -1,0 +1,16 @@
+Added Component: Designator=Buzz(BuzzerChinois)
+Added Component: Designator=P1(HDR1X10)
+Added Pin To Net: NetName=NetBuzz_0 Pin=Buzz-0
+Added Pin To Net: NetName=GND Pin=Buzz-1
+Added Pin To Net: NetName=NetMicroController1_78 Pin=P1-1
+Added Pin To Net: NetName=NetMicroController1_26 Pin=P1-2
+Added Pin To Net: NetName=NetMicroController1_77 Pin=P1-3
+Added Pin To Net: NetName=GND Pin=P1-4
+Added Pin To Net: NetName=NetMicroController1_76 Pin=P1-5
+Added Pin To Net: NetName=GND Pin=P1-6
+Added Pin To Net: NetName=NetMicroController1_74 Pin=P1-7
+Added Pin To Net: NetName=GND Pin=P1-8
+Added Pin To Net: NetName=NetMicroController1_75 Pin=P1-9
+Added Pin To Net: NetName=VCC 5V Pin=P1-10
+Added Member To Class: ClassName=Sound Connector Member=Component Buzz BuzzerChinois
+Added Member To Class: ClassName=TXRobot-Boutons Member=Component P1 Header 10

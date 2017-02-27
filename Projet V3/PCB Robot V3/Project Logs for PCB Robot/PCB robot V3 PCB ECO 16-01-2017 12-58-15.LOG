@@ -1,0 +1,18 @@
+Added Component: Designator=LD5V(LED1206)
+Added Component: Designator=LD8V(LED1206)
+Added Component: Designator=R5V(0805)
+Added Component: Designator=R8V(0805)
+Added Pin To Net: NetName=GND Pin=LD5V-K
+Added Pin To Net: NetName=GND Pin=LD8V-K
+Added Pin To Net: NetName=VCC 5V Pin=R5V-2
+Added Pin To Net: NetName=VCC 8V Pin=R8V-2
+Added Pin To Net: NetName=NetLD5V_A Pin=LD5V-A
+Added Pin To Net: NetName=NetLD5V_A Pin=R5V-1
+Added Net: Name=NetLD5V_A
+Added Pin To Net: NetName=NetLD8V_A Pin=LD8V-A
+Added Pin To Net: NetName=NetLD8V_A Pin=R8V-1
+Added Net: Name=NetLD8V_A
+Added Member To Class: ClassName=Alim sch projet robot Member=Component LD5V comment
+Added Member To Class: ClassName=Alim sch projet robot Member=Component LD8V comment
+Added Member To Class: ClassName=Alim sch projet robot Member=Component R5V RES
+Added Member To Class: ClassName=Alim sch projet robot Member=Component R8V RES

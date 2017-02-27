@@ -1,0 +1,60 @@
+Removed Pin From Net: NetName=GND Pin=C30-1
+Removed Pin From Net: NetName=VCC 5V Pin=C30-2
+Removed Pin From Net: NetName=GND Pin=P2-1
+Removed Pin From Net: NetName=VCC 5V Pin=P2-6
+Change Component Designator: OldDesignator=J? NewDesignator=Connecteur1-10
+Change Component Designator: OldDesignator=J? NewDesignator=Connecteur 11-20
+Added Pin To Net: NetName=VCC 5V Pin=Connecteur1-10-6
+Added Pin To Net: NetName=GND Pin=Connecteur1-10-8
+Added Pin To Net: NetName=VCC 5V Pin=Connecteur 11-20-2
+Added Pin To Net: NetName=GND Pin=Connecteur 11-20-4
+Added Pin To Net: NetName=GND Pin=Connecteur 11-20-6
+Added Pin To Net: NetName=NetC30_2 Pin=C30-2
+Added Pin To Net: NetName=NetC30_2 Pin=P2-6
+Added Net: Name=NetC30_2
+Added Pin To Net: NetName=NetConnecteur1-10_1 Pin=Connecteur1-10-1
+Added Pin To Net: NetName=NetConnecteur1-10_1 Pin=MicroController1-52
+Added Net: Name=NetConnecteur1-10_1
+Added Pin To Net: NetName=NetConnecteur1-10_2 Pin=Connecteur1-10-2
+Added Pin To Net: NetName=NetConnecteur1-10_2 Pin=MicroController1-88
+Added Net: Name=NetConnecteur1-10_2
+Added Pin To Net: NetName=NetConnecteur1-10_3 Pin=Connecteur1-10-3
+Added Pin To Net: NetName=NetConnecteur1-10_3 Pin=MicroController1-97
+Added Net: Name=NetConnecteur1-10_3
+Added Pin To Net: NetName=NetConnecteur1-10_4 Pin=Connecteur1-10-4
+Added Pin To Net: NetName=NetConnecteur1-10_4 Pin=MicroController1-53
+Added Net: Name=NetConnecteur1-10_4
+Added Pin To Net: NetName=NetConnecteur1-10_5 Pin=Connecteur1-10-5
+Added Pin To Net: NetName=NetConnecteur1-10_5 Pin=MicroController1-42
+Added Net: Name=NetConnecteur1-10_5
+Added Pin To Net: NetName=NetConnecteur1-10_7 Pin=Connecteur1-10-7
+Added Pin To Net: NetName=NetConnecteur1-10_7 Pin=MicroController1-96
+Added Net: Name=NetConnecteur1-10_7
+Added Pin To Net: NetName=NetConnecteur1-10_9 Pin=Connecteur1-10-9
+Added Pin To Net: NetName=NetConnecteur1-10_9 Pin=MicroController1-86
+Added Net: Name=NetConnecteur1-10_9
+Added Pin To Net: NetName=NetConnecteur1-10_10 Pin=Connecteur1-10-10
+Added Pin To Net: NetName=NetConnecteur1-10_10 Pin=MicroController1-70
+Added Net: Name=NetConnecteur1-10_10
+Added Pin To Net: NetName=NetConnecteur 11-20_1 Pin=Connecteur 11-20-1
+Added Pin To Net: NetName=NetConnecteur 11-20_1 Pin=MicroController1-84
+Added Net: Name=NetConnecteur 11-20_1
+Added Pin To Net: NetName=NetConnecteur 11-20_3 Pin=Connecteur 11-20-3
+Added Pin To Net: NetName=NetConnecteur 11-20_3 Pin=MicroController1-41
+Added Net: Name=NetConnecteur 11-20_3
+Added Pin To Net: NetName=NetConnecteur 11-20_5 Pin=Connecteur 11-20-5
+Added Pin To Net: NetName=NetConnecteur 11-20_5 Pin=MicroController1-85
+Added Net: Name=NetConnecteur 11-20_5
+Added Pin To Net: NetName=NetConnecteur 11-20_7 Pin=Connecteur 11-20-7
+Added Pin To Net: NetName=NetConnecteur 11-20_7 Pin=MicroController1-51
+Added Net: Name=NetConnecteur 11-20_7
+Added Pin To Net: NetName=NetConnecteur 11-20_8 Pin=Connecteur 11-20-8
+Added Pin To Net: NetName=NetConnecteur 11-20_8 Pin=MicroController1-25
+Added Net: Name=NetConnecteur 11-20_8
+Added Pin To Net: NetName=NetConnecteur 11-20_9 Pin=Connecteur 11-20-9
+Added Pin To Net: NetName=NetConnecteur 11-20_9 Pin=MicroController1-87
+Added Net: Name=NetConnecteur 11-20_9
+Added Pin To Net: NetName=NetConnecteur 11-20_10 Pin=Connecteur 11-20-10
+Added Pin To Net: NetName=NetConnecteur 11-20_10 Pin=MicroController1-55
+Added Net: Name=NetConnecteur 11-20_10
+Added Member To Class: ClassName=Line driver connector Member=Component Connecteur1-10 comment

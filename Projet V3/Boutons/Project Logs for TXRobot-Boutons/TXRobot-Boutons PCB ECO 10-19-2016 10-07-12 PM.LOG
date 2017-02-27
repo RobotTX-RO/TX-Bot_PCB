@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetButtonCentre_1 Pin=CARBack-1
+Change Component Designator: OldDesignator=CARBack NewDesignator=CARCentre
+Added Pin To Net: NetName=NetButtonBack_1 Pin=CARBack-1
+Added Pin To Net: NetName=NetButtonCentre_1 Pin=CARCentre-1
+Added Pin To Net: NetName=GND Pin=CARCentre-2
+Added Member To Class: ClassName=TXRobot-Boutons Member=Component CARCentre CAP
+Added Room: Name=TXRobot-Boutons

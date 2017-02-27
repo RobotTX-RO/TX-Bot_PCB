@@ -1,0 +1,251 @@
+Added Component: Designator=Battery pins1(HDR1X2)
+Added Component: Designator=C1(293D/B)
+Added Component: Designator=C2(293D/B)
+Added Component: Designator=C3(293D/B)
+Added Component: Designator=C4(293D/B)
+Added Component: Designator=C5(293D/B)
+Added Component: Designator=C6(293D/B)
+Added Component: Designator=C17(0805)
+Added Component: Designator=C18(0805)
+Added Component: Designator=Capteur exte 3(Headers8)
+Added Component: Designator=Capteur exte 4(Headers8)
+Added Component: Designator=D1(Schottly Diode SS32 footprint)
+Added Component: Designator=D2(Schottly Diode SS32 footprint)
+Added Component: Designator=D3(Schottly Diode SS32 footprint)
+Added Component: Designator=D4(Diode MULTICOMP SS16)
+Added Component: Designator=D5(Diode MULTICOMP SS16)
+Added Component: Designator=D6(Diode MULTICOMP SS16)
+Added Component: Designator=D7(Diode MULTICOMP SS16)
+Added Component: Designator=D8(Diode MULTICOMP SS16)
+Added Component: Designator=D9(Diode MULTICOMP SS16)
+Added Component: Designator=D10(Diode MULTICOMP SS16)
+Added Component: Designator=D11(Diode MULTICOMP SS16)
+Added Component: Designator=D?(Diode MULTICOMP SS16)
+Added Component: Designator=L1(1050)
+Added Component: Designator=L2(1050)
+Added Component: Designator=L3(1050)
+Added Component: Designator=Motor 1(HDR1X2)
+Added Component: Designator=Motor 2(HDR1X2)
+Added Component: Designator=P1(HDR1X10)
+Added Component: Designator=R1(0805)
+Added Component: Designator=R3(0805)
+Added Component: Designator=R5(0805)
+Added Component: Designator=R6(0805)
+Added Component: Designator=R7(0805)
+Added Component: Designator=R8(0805)
+Added Component: Designator=R33(0201)
+Added Component: Designator=R34(0201)
+Added Component: Designator=R35(0201)
+Added Component: Designator=R36(0201)
+Added Component: Designator=R37(0201)
+Added Component: Designator=R38(0201)
+Added Component: Designator=SW1(JMP2-100)
+Added Component: Designator=To LED Matrix1(HDR1X5)
+Added Component: Designator=U1(LM2731 footprint)
+Added Component: Designator=U3(LM2731 footprint)
+Added Component: Designator=U4(LMR10510 footprint)
+Added Component: Designator=U21(Infrared)
+Added Component: Designator=U22(Infrared)
+Added Component: Designator=U36(MCP6002)
+Added Component: Designator=U38(L293NE)
+Added Pin To Net: NetName=GND Pin=Battery pins1-1
+Added Pin To Net: NetName=BATTERY PIN + Pin=Battery pins1-2
+Added Pin To Net: NetName=BATTERY Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=VCC 8V Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=BATTERY Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=VCC 5V Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=BATTERY Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=VCC 3.3V Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=VCC 5V Pin=C17-2
+Added Pin To Net: NetName=VCC 8V Pin=C18-1
+Added Pin To Net: NetName=GND Pin=C18-2
+Added Pin To Net: NetName=NetCapteur exte 3_1 Pin=Capteur exte 3-1
+Added Pin To Net: NetName=NetCapteur exte 3_2 Pin=Capteur exte 3-2
+Added Pin To Net: NetName=VCC 5V Pin=Capteur exte 3-3
+Added Pin To Net: NetName=GND Pin=Capteur exte 3-4
+Added Pin To Net: NetName=NetCapteur exte 1_5 Pin=Capteur exte 3-5
+Added Pin To Net: NetName=NetCapteur exte 1_6 Pin=Capteur exte 3-6
+Added Pin To Net: NetName=NetCapteur exte 4_1 Pin=Capteur exte 4-1
+Added Pin To Net: NetName=NetCapteur exte 4_2 Pin=Capteur exte 4-2
+Added Pin To Net: NetName=VCC 5V Pin=Capteur exte 4-3
+Added Pin To Net: NetName=GND Pin=Capteur exte 4-4
+Added Pin To Net: NetName=NetCapteur exte 4_5 Pin=Capteur exte 4-5
+Added Pin To Net: NetName=VCC 8V Pin=D1-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=VCC 5V Pin=D2-1
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=GND Pin=D3-2
+Added Pin To Net: NetName=MOTOR1 OUT+ Pin=D4-1
+Added Pin To Net: NetName=VCC 8V Pin=D4-2
+Added Pin To Net: NetName=MOTOR2 OUT+ Pin=D5-1
+Added Pin To Net: NetName=VCC 8V Pin=D5-2
+Added Pin To Net: NetName=GND Pin=D6-1
+Added Pin To Net: NetName=MOTOR1 OUT+ Pin=D6-2
+Added Pin To Net: NetName=GND Pin=D7-1
+Added Pin To Net: NetName=MOTOR2 OUT+ Pin=D7-2
+Added Pin To Net: NetName=GND Pin=D8-1
+Added Pin To Net: NetName=MOTOR1 OUT- Pin=D8-2
+Added Pin To Net: NetName=GND Pin=D9-1
+Added Pin To Net: NetName=MOTOR2 OUT- Pin=D9-2
+Added Pin To Net: NetName=MOTOR1 OUT- Pin=D10-1
+Added Pin To Net: NetName=VCC 8V Pin=D10-2
+Added Pin To Net: NetName=MOTOR2 OUT- Pin=D11-1
+Added Pin To Net: NetName=VCC 8V Pin=D11-2
+Added Pin To Net: NetName=BATTERY PIN Pin=D?-1
+Added Pin To Net: NetName=BATTERY PIN + Pin=D?-2
+Added Pin To Net: NetName=BATTERY Pin=L1-1
+Added Pin To Net: NetName=NetD1_2 Pin=L1-2
+Added Pin To Net: NetName=BATTERY Pin=L2-1
+Added Pin To Net: NetName=NetD2_2 Pin=L2-2
+Added Pin To Net: NetName=NetD3_1 Pin=L3-1
+Added Pin To Net: NetName=VCC 3.3V Pin=L3-2
+Added Pin To Net: NetName=MOTOR1 OUT- Pin=Motor 1-1
+Added Pin To Net: NetName=MOTOR1 OUT+ Pin=Motor 1-2
+Added Pin To Net: NetName=MOTOR2 OUT+ Pin=Motor 2-1
+Added Pin To Net: NetName=MOTOR2 OUT- Pin=Motor 2-2
+Added Pin To Net: NetName=NetMicroController1_78 Pin=P1-1
+Added Pin To Net: NetName=NetMicroController1_26 Pin=P1-2
+Added Pin To Net: NetName=NetMicroController1_77 Pin=P1-3
+Added Pin To Net: NetName=GND Pin=P1-4
+Added Pin To Net: NetName=NetMicroController1_76 Pin=P1-5
+Added Pin To Net: NetName=GND Pin=P1-6
+Added Pin To Net: NetName=NetMicroController1_74 Pin=P1-7
+Added Pin To Net: NetName=GND Pin=P1-8
+Added Pin To Net: NetName=NetMicroController1_75 Pin=P1-9
+Added Pin To Net: NetName=VCC 5V Pin=P1-10
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=VCC 8V Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=NetR1_1 Pin=R3-2
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=VCC 5V Pin=R5-2
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=NetR5_1 Pin=R6-2
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=VCC 3.3V Pin=R7-2
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=NetR7_1 Pin=R8-2
+Added Pin To Net: NetName=NetR33_1 Pin=R33-1
+Added Pin To Net: NetName=GND Pin=R33-2
+Added Pin To Net: NetName=GND Pin=R34-1
+Added Pin To Net: NetName=NetR34_2 Pin=R34-2
+Added Pin To Net: NetName=GND Pin=R35-1
+Added Pin To Net: NetName=NetR35_2 Pin=R35-2
+Added Pin To Net: NetName=NetR36_1 Pin=R36-1
+Added Pin To Net: NetName=GND Pin=R36-2
+Added Pin To Net: NetName=VOLTAGE DIVIDER Pin=R37-1
+Added Pin To Net: NetName=VCC 5V Pin=R37-2
+Added Pin To Net: NetName=VOLTAGE DIVIDER Pin=R38-1
+Added Pin To Net: NetName=GND Pin=R38-2
+Added Pin To Net: NetName=BATTERY PIN + Pin=SW1-1
+Added Pin To Net: NetName=BATTERY Pin=SW1-2
+Added Pin To Net: NetName=VCC 5V Pin=To LED Matrix1-1
+Added Pin To Net: NetName=GND Pin=To LED Matrix1-2
+Added Pin To Net: NetName=NetMicroController1_60 Pin=To LED Matrix1-3
+Added Pin To Net: NetName=NetMicroController1_59 Pin=To LED Matrix1-4
+Added Pin To Net: NetName=NetMicroController1_58 Pin=To LED Matrix1-5
+Added Pin To Net: NetName=NetD1_2 Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=NetR1_1 Pin=U1-3
+Added Pin To Net: NetName=BATTERY Pin=U1-4
+Added Pin To Net: NetName=BATTERY Pin=U1-5
+Added Pin To Net: NetName=NetD2_2 Pin=U3-1
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=NetR5_1 Pin=U3-3
+Added Pin To Net: NetName=BATTERY Pin=U3-4
+Added Pin To Net: NetName=BATTERY Pin=U3-5
+Added Pin To Net: NetName=NetD3_1 Pin=U4-1
+Added Pin To Net: NetName=GND Pin=U4-2
+Added Pin To Net: NetName=NetR7_1 Pin=U4-3
+Added Pin To Net: NetName=BATTERY Pin=U4-4
+Added Pin To Net: NetName=BATTERY Pin=U4-5
+Added Pin To Net: NetName=NetU21_gndEmitter Pin=U21-gndEmitter
+Added Pin To Net: NetName=NetMicroController1_83 Pin=U21-gndReceiver
+Added Pin To Net: NetName=VCC 5V Pin=U21-VCC
+Added Pin To Net: NetName=VCC 5V Pin=U21-VCC
+Added Pin To Net: NetName=NetU22_gndEmitter Pin=U22-gndEmitter
+Added Pin To Net: NetName=NetMicroController1_82 Pin=U22-gndReceiver
+Added Pin To Net: NetName=VCC 5V Pin=U22-VCC
+Added Pin To Net: NetName=VCC 5V Pin=U22-VCC
+Added Pin To Net: NetName=NetMicroController1_95 Pin=U36-1
+Added Pin To Net: NetName=VOLTAGE DIVIDER Pin=U36-2
+Added Pin To Net: NetName=NetR33_1 Pin=U36-3
+Added Pin To Net: NetName=GND Pin=U36-4
+Added Pin To Net: NetName=NetR36_1 Pin=U36-5
+Added Pin To Net: NetName=VOLTAGE DIVIDER Pin=U36-6
+Added Pin To Net: NetName=NetMicroController1_94 Pin=U36-7
+Added Pin To Net: NetName=VCC 5V Pin=U36-8
+Added Pin To Net: NetName=ENABLE 1 Pin=U38-1
+Added Pin To Net: NetName=MOTOR1 IN 1 Pin=U38-2
+Added Pin To Net: NetName=MOTOR1 OUT+ Pin=U38-3
+Added Pin To Net: NetName=GND Pin=U38-4
+Added Pin To Net: NetName=GND Pin=U38-5
+Added Pin To Net: NetName=MOTOR1 OUT- Pin=U38-6
+Added Pin To Net: NetName=MOTOR1 IN 2 Pin=U38-7
+Added Pin To Net: NetName=VCC 8V Pin=U38-8
+Added Pin To Net: NetName=VCC 5V Pin=U38-9
+Added Pin To Net: NetName=MOTOR2 IN1 Pin=U38-10
+Added Pin To Net: NetName=MOTOR2 OUT+ Pin=U38-11
+Added Pin To Net: NetName=GND Pin=U38-12
+Added Pin To Net: NetName=GND Pin=U38-13
+Added Pin To Net: NetName=MOTOR2 OUT- Pin=U38-14
+Added Pin To Net: NetName=MOTOR2 IN2 Pin=U38-15
+Added Pin To Net: NetName=ENABLE 2 Pin=U38-16
+Added Member To Class: ClassName=Alim sch projet robot Member=Component Battery pins1 Header 2
+Added Member To Class: ClassName=Alim sch projet robot Member=Component C1 CAP_POL
+Added Member To Class: ClassName=Alim sch projet robot Member=Component C2 CAP_POL
+Added Member To Class: ClassName=Alim sch projet robot Member=Component C3 CAP_POL
+Added Member To Class: ClassName=Alim sch projet robot Member=Component C4 CAP_POL
+Added Member To Class: ClassName=Alim sch projet robot Member=Component C5 CAP_POL
+Added Member To Class: ClassName=Alim sch projet robot Member=Component C6 CAP_POL
+Added Member To Class: ClassName=CarteTxMoteur Member=Component C17 CAP
+Added Member To Class: ClassName=CarteTxMoteur Member=Component C18 CAP
+Added Member To Class: ClassName=MKbloc Connector Member=Component Capteur exte 3 headers6
+Added Member To Class: ClassName=MKbloc Connector Member=Component Capteur exte 4 headers6
+Added Member To Class: ClassName=Alim sch projet robot Member=Component D1 SS32
+Added Member To Class: ClassName=Alim sch projet robot Member=Component D2 SS32
+Added Member To Class: ClassName=Alim sch projet robot Member=Component D3 SS32
+Added Member To Class: ClassName=CarteTxMoteur Member=Component D4 DiodeRedresseuse
+Added Member To Class: ClassName=CarteTxMoteur Member=Component D5 DiodeRedresseuse
+Added Member To Class: ClassName=CarteTxMoteur Member=Component D6 DiodeRedresseuse
+Added Member To Class: ClassName=CarteTxMoteur Member=Component D7 DiodeRedresseuse
+Added Member To Class: ClassName=CarteTxMoteur Member=Component D8 DiodeRedresseuse
+Added Member To Class: ClassName=CarteTxMoteur Member=Component D9 DiodeRedresseuse
+Added Member To Class: ClassName=CarteTxMoteur Member=Component D10 DiodeRedresseuse
+Added Member To Class: ClassName=CarteTxMoteur Member=Component D11 DiodeRedresseuse
+Added Member To Class: ClassName=Alim sch projet robot Member=Component D? DiodeRedresseuse
+Added Member To Class: ClassName=Alim sch projet robot Member=Component L1 IND
+Added Member To Class: ClassName=Alim sch projet robot Member=Component L2 IND
+Added Member To Class: ClassName=Alim sch projet robot Member=Component L3 IND
+Added Member To Class: ClassName=CarteTxMoteur Member=Component Motor 1 Header 2
+Added Member To Class: ClassName=CarteTxMoteur Member=Component Motor 2 Header 2
+Added Member To Class: ClassName=TXRobot-Boutons Member=Component P1 Header 10
+Added Member To Class: ClassName=Alim sch projet robot Member=Component R1 RES
+Added Member To Class: ClassName=Alim sch projet robot Member=Component R3 RES
+Added Member To Class: ClassName=Alim sch projet robot Member=Component R5 RES
+Added Member To Class: ClassName=Alim sch projet robot Member=Component R6 RES
+Added Member To Class: ClassName=Alim sch projet robot Member=Component R7 RES
+Added Member To Class: ClassName=Alim sch projet robot Member=Component R8 RES
+Added Member To Class: ClassName=CarteTxMoteur Member=Component R33 RES
+Added Member To Class: ClassName=CarteTxMoteur Member=Component R34 RES
+Added Member To Class: ClassName=CarteTxMoteur Member=Component R35 RES
+Added Member To Class: ClassName=CarteTxMoteur Member=Component R36 RES
+Added Member To Class: ClassName=CarteTxMoteur Member=Component R37 RES
+Added Member To Class: ClassName=CarteTxMoteur Member=Component R38 RES
+Added Member To Class: ClassName=Alim sch projet robot Member=Component SW1 allumage
+Added Member To Class: ClassName=LED Matrix connector Member=Component To LED Matrix1 Header 5
+Added Member To Class: ClassName=Alim sch projet robot Member=Component U1 LM2731
+Added Member To Class: ClassName=Alim sch projet robot Member=Component U3 LM2731
+Added Member To Class: ClassName=Alim sch projet robot Member=Component U4 LMR10510XMF
+Added Member To Class: ClassName=CarteTxCapteurDistance 2 Member=Component U21 infrared
+Added Member To Class: ClassName=CarteTxCapteurDistance 2 Member=Component U22 infrared
+Added Member To Class: ClassName=CarteTxMoteur Member=Component U36 MCP6002
+Added Member To Class: ClassName=CarteTxMoteur Member=Component U38 L293NE

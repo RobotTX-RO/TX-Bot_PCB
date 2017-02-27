@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [CarteTxCapteurDistance.PrjPcb]
+   Generated File[CarteTxCapteurDistance.TXT]
+   Generated File[CarteTxCapteurDistance.LDP]
+   Generated File[CarteTxCapteurDistance.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 15:27:16 On 13/12/2016

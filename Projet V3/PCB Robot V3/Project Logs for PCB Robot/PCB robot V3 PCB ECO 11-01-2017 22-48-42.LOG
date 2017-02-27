@@ -1,0 +1,12 @@
+Added Component: Designator=U39(USB micro B connector)
+Added Pin To Net: NetName=VCC 5V USB Pin=U39-1
+Added Pin To Net: NetName=D- Pin=U39-2
+Added Pin To Net: NetName=D+ Pin=U39-3
+Added Pin To Net: NetName=GND Pin=U39-5
+Added Pin To Net: NetName=GND Pin=U39-6
+Added Pin To Net: NetName=GND Pin=U39-7
+Added Pin To Net: NetName=GND Pin=U39-8
+Added Pin To Net: NetName=GND Pin=U39-9
+Added Pin To Net: NetName=GND Pin=U39-10
+Added Pin To Net: NetName=GND Pin=U39-11
+Added Member To Class: ClassName=IA Core Member=Component U39 USB microB

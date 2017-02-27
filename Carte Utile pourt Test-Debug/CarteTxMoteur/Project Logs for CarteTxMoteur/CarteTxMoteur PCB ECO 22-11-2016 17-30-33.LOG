@@ -1,0 +1,18 @@
+Added Component: Designator=Diode1(1206)
+Added Component: Designator=Diode(1206)
+Added Component: Designator=Res1(0805)
+Added Component: Designator=Res2(0805)
+Added Pin To Net: NetName=GND Pin=Diode1-2
+Added Pin To Net: NetName=GND Pin=Diode-2
+Added Pin To Net: NetName=VCC1 5V Pin=Res1-1
+Added Pin To Net: NetName=VCC2 8V Pin=Res2-1
+Added Pin To Net: NetName=NetDiode1_1 Pin=Diode1-1
+Added Pin To Net: NetName=NetDiode1_1 Pin=Res2-2
+Added Net: Name=NetDiode1_1
+Added Pin To Net: NetName=NetDiode_1 Pin=Diode-1
+Added Pin To Net: NetName=NetDiode_1 Pin=Res1-2
+Added Net: Name=NetDiode_1
+Added Member To Class: ClassName=CarteTxMoteur Member=Component Diode1 RES
+Added Member To Class: ClassName=CarteTxMoteur Member=Component Diode RES
+Added Member To Class: ClassName=CarteTxMoteur Member=Component Res1 RES
+Added Member To Class: ClassName=CarteTxMoteur Member=Component Res2 RES

@@ -1,0 +1,6 @@
+Added Component: Designator=U41(ESP8266MOD Footprint)
+Added Pin To Net: NetName=VCC 3.3V Pin=U41-8
+Added Pin To Net: NetName=GND Pin=U41-15
+Added Pin To Net: NetName=NetR51_2 Pin=U41-21
+Added Pin To Net: NetName=NetMicroController1_12 Pin=U41-22
+Added Member To Class: ClassName=Wi fi connector Member=Component U41 ESP8266MOD

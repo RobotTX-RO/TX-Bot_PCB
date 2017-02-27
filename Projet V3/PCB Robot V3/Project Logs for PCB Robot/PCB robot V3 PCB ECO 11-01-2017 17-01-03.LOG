@@ -1,0 +1,66 @@
+Added Component: Designator=MicroController1(100A_N)
+Added Pin To Net: NetName=SELIAL_RX Pin=MicroController1-2
+Added Pin To Net: NetName=SERIAL_TX Pin=MicroController1-3
+Added Pin To Net: NetName=ENABLE 2 Pin=MicroController1-5
+Added Pin To Net: NetName=VCC 5V Pin=MicroController1-10
+Added Pin To Net: NetName=GND Pin=MicroController1-11
+Added Pin To Net: NetName=NetMicroController1_12 Pin=MicroController1-12
+Added Pin To Net: NetName=NetMicroController1_13 Pin=MicroController1-13
+Added Pin To Net: NetName=MOTOR2 IN2 Pin=MicroController1-15
+Added Pin To Net: NetName=MOTOR2 IN1 Pin=MicroController1-16
+Added Pin To Net: NetName=MOTOR1 IN 2 Pin=MicroController1-17
+Added Pin To Net: NetName=MOTOR1 IN 1 Pin=MicroController1-18
+Added Pin To Net: NetName=SCK Pin=MicroController1-20
+Added Pin To Net: NetName=MOSI Pin=MicroController1-21
+Added Pin To Net: NetName=MISO Pin=MicroController1-22
+Added Pin To Net: NetName=ENABLE 1 Pin=MicroController1-23
+Added Pin To Net: NetName=Net*_0 Pin=MicroController1-24
+Added Pin To Net: NetName=NetMicroController1_25 Pin=MicroController1-25
+Added Pin To Net: NetName=NetMicroController1_26 Pin=MicroController1-26
+Added Pin To Net: NetName=RESET Pin=MicroController1-30
+Added Pin To Net: NetName=VCC 5V Pin=MicroController1-31
+Added Pin To Net: NetName=GND Pin=MicroController1-32
+Added Pin To Net: NetName=NetC28_1 Pin=MicroController1-33
+Added Pin To Net: NetName=NetC27_1 Pin=MicroController1-34
+Added Pin To Net: NetName=NetMicroController1_35 Pin=MicroController1-35
+Added Pin To Net: NetName=NetMicroController1_37 Pin=MicroController1-37
+Added Pin To Net: NetName=NetMicroController1_40 Pin=MicroController1-40
+Added Pin To Net: NetName=NetMicroController1_41 Pin=MicroController1-41
+Added Pin To Net: NetName=NetMicroController1_42 Pin=MicroController1-42
+Added Pin To Net: NetName=NetCapteur exte 1_6 Pin=MicroController1-43
+Added Pin To Net: NetName=NetCapteur exte 1_5 Pin=MicroController1-44
+Added Pin To Net: NetName=NetMicroController1_51 Pin=MicroController1-51
+Added Pin To Net: NetName=NetMicroController1_52 Pin=MicroController1-52
+Added Pin To Net: NetName=NetMicroController1_53 Pin=MicroController1-53
+Added Pin To Net: NetName=NetMicroController1_55 Pin=MicroController1-55
+Added Pin To Net: NetName=NetCapteur exte 4_5 Pin=MicroController1-57
+Added Pin To Net: NetName=NetMicroController1_58 Pin=MicroController1-58
+Added Pin To Net: NetName=NetMicroController1_59 Pin=MicroController1-59
+Added Pin To Net: NetName=NetMicroController1_60 Pin=MicroController1-60
+Added Pin To Net: NetName=VCC 5V Pin=MicroController1-61
+Added Pin To Net: NetName=GND Pin=MicroController1-62
+Added Pin To Net: NetName=NetCapteur exte 4_1 Pin=MicroController1-63
+Added Pin To Net: NetName=NetCapteur exte 4_2 Pin=MicroController1-64
+Added Pin To Net: NetName=NetMicroController1_70 Pin=MicroController1-70
+Added Pin To Net: NetName=NetMicroController1_74 Pin=MicroController1-74
+Added Pin To Net: NetName=NetMicroController1_75 Pin=MicroController1-75
+Added Pin To Net: NetName=NetMicroController1_76 Pin=MicroController1-76
+Added Pin To Net: NetName=NetMicroController1_77 Pin=MicroController1-77
+Added Pin To Net: NetName=NetMicroController1_78 Pin=MicroController1-78
+Added Pin To Net: NetName=VCC 5V Pin=MicroController1-80
+Added Pin To Net: NetName=GND Pin=MicroController1-81
+Added Pin To Net: NetName=NetMicroController1_82 Pin=MicroController1-82
+Added Pin To Net: NetName=NetMicroController1_83 Pin=MicroController1-83
+Added Pin To Net: NetName=NetMicroController1_84 Pin=MicroController1-84
+Added Pin To Net: NetName=NetMicroController1_85 Pin=MicroController1-85
+Added Pin To Net: NetName=NetMicroController1_86 Pin=MicroController1-86
+Added Pin To Net: NetName=NetMicroController1_87 Pin=MicroController1-87
+Added Pin To Net: NetName=NetMicroController1_88 Pin=MicroController1-88
+Added Pin To Net: NetName=NetMicroController1_94 Pin=MicroController1-94
+Added Pin To Net: NetName=NetMicroController1_95 Pin=MicroController1-95
+Added Pin To Net: NetName=NetMicroController1_96 Pin=MicroController1-96
+Added Pin To Net: NetName=NetMicroController1_97 Pin=MicroController1-97
+Added Pin To Net: NetName=GND Pin=MicroController1-98
+Added Pin To Net: NetName=GND Pin=MicroController1-99
+Added Pin To Net: NetName=VCC 5V Pin=MicroController1-100
+Added Member To Class: ClassName=IA Core Member=Component MicroController1 ATmega2560-16AU

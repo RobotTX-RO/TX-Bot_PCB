@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=RESET 16 Pin=SW2-1
+Removed Pin From Net: NetName=RESET 16 Pin=SW2-2
+Removed Pin From Net: NetName=GND Pin=SW2-3
+Removed Pin From Net: NetName=GND Pin=SW2-4
+Removed Member From Class: ClassName=IA Core Member=SW2
+Change Component Footprint: Designator=C14 Old Footprint=RB.1/.2 New Footprint=293D/B
+Change Component Footprint: Designator=C15 Old Footprint=RB.1/.2 New Footprint=293D/B
+Added Member To Class: ClassName=IA Core Member=Component MicroController1 ATmega2560-16AU

@@ -1,0 +1,19 @@
+Change Component Designator: OldDesignator=AP7331 NewDesignator=AP7331 voltage regulator
+Change Component Designator: OldDesignator=Battery NewDesignator=Battery pins1
+Change Component Designator: OldDesignator=LED matrix NewDesignator=To LED Matrix1
+Change Component Designator: OldDesignator=RJ12-1 NewDesignator=Capteur exte 1
+Change Component Designator: OldDesignator=RJ12- 2 NewDesignator=Capteur exte 2
+Added Component: Designator=U35(ITR9608 footprint)
+Added Component: Designator=U37(ITR9608 footprint)
+Added Pin To Net: NetName=VCC 5V Pin=U35-1
+Added Pin To Net: NetName=NetR34_2 Pin=U35-2
+Added Pin To Net: NetName=VCC 5V Pin=U35-3
+Added Pin To Net: NetName=NetR33_2 Pin=U35-4
+Added Pin To Net: NetName=VCC 5V Pin=U37-1
+Added Pin To Net: NetName=NetR35_2 Pin=U37-2
+Added Pin To Net: NetName=VCC 5V Pin=U37-3
+Added Pin To Net: NetName=NetR36_2 Pin=U37-4
+Added Member To Class: ClassName=MKbloc Connector Member=Component Capteur exte 2 RJ12_FCI_Femelle
+Added Member To Class: ClassName=CarteTxCapteurDistance 2 Member=Component U21 infrared
+Added Member To Class: ClassName=CarteTxMoteur Member=Component U35 ITR9608
+Added Member To Class: ClassName=CarteTxMoteur Member=Component U37 ITR9608

@@ -1,0 +1,12 @@
+Added Component: Designator=To RJ1(HDR1X4)
+Added Pin To Net: NetName=GND Pin=To RJ1-1
+Added Pin To Net: NetName=NetMicroController1_43 Pin=To RJ1-2
+Added Pin To Net: NetName=NetMicroController1_44 Pin=To RJ1-3
+Added Pin To Net: NetName=VCC 5V Pin=To RJ1-4
+Added Pin To Net: NetName=GND Pin=U30-GND
+Added Pin To Net: NetName=GND Pin=U31-GND
+Added Pin To Net: NetName=GND Pin=U32-GND
+Added Pin To Net: NetName=GND Pin=U33-GND
+Added Pin To Net: NetName=GND Pin=U34-GND
+Added Member To Class: ClassName=IA Core Member=Component ICSP uC1 ISCP Arduino
+Added Member To Class: ClassName=NXC Connector Member=Component To RJ1 Header 4

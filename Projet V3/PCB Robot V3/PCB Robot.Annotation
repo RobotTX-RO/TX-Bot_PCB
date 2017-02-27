@@ -1,0 +1,16 @@
+[DesignatorManager]
+
+[SheetNumberManager]
+SheetNumberOrder=Display Order
+SheetNumberMethod=Increasing
+DocumentName0=Alim sch projet robot.SchDoc
+UniqueIDPath0=
+SheetNumber0=1
+DocumentName1=Driver Ligne 2.SchDoc
+UniqueIDPath1=
+SheetNumber1=2
+DocumentName2=Schema chargeur USB projet robot.SchDoc
+UniqueIDPath2=
+SheetNumber2=3
+
+

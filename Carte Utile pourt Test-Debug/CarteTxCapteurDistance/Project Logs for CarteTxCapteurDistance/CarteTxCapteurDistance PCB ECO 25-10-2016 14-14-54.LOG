@@ -1,0 +1,189 @@
+Added Component: Designator=Alim(POWER2)
+Added Component: Designator=Analog(HEADER6)
+Added Component: Designator=Digital(HEADER6)
+Added Component: Designator=infrared1(Infrared)
+Added Component: Designator=infrared2(Infrared)
+Added Component: Designator=infrared3(Infrared)
+Added Component: Designator=infrared4(Infrared)
+Added Component: Designator=infrared5(Infrared)
+Added Component: Designator=LedRgbWs2812b1(LedRgbWs2812b)
+Added Component: Designator=LedRgbWs2812b2(LedRgbWs2812b)
+Added Component: Designator=LedRgbWs2812b3(LedRgbWs2812b)
+Added Component: Designator=LedRgbWs2812b4(LedRgbWs2812b)
+Added Component: Designator=LedRgbWs2812b5(LedRgbWs2812b)
+Added Component: Designator=LedRgbWs2812b6(LedRgbWs2812b)
+Added Component: Designator=Q1(BC817-40)
+Added Component: Designator=Q2(BC817-40)
+Added Component: Designator=Q3(BC817-40)
+Added Component: Designator=Q4(BC817-40)
+Added Component: Designator=Q5(BC817-40)
+Added Component: Designator=Q6(BC817-40)
+Added Component: Designator=Q7(BC817-40)
+Added Component: Designator=Q8(BC817-40)
+Added Component: Designator=Q9(BC817-40)
+Added Component: Designator=Q10(BC817-40)
+Added Component: Designator=R1(0805)
+Added Component: Designator=R2(0805)
+Added Component: Designator=R3(0805)
+Added Component: Designator=R4(0805)
+Added Component: Designator=R5(0805)
+Added Component: Designator=R6(0805)
+Added Component: Designator=R7(0805)
+Added Component: Designator=R8(0805)
+Added Component: Designator=R9(0805)
+Added Component: Designator=R10(0805)
+Added Component: Designator=R11(0805)
+Added Component: Designator=R12(0805)
+Added Component: Designator=R13(0805)
+Added Component: Designator=R14(0805)
+Added Component: Designator=R15(0805)
+Added Pin To Net: NetName=A9 Pin=Analog-1
+Added Pin To Net: NetName=A9 Pin=infrared1-gndReceiver
+Added Pin To Net: NetName=A9 Pin=R2-1
+Added Net: Name=A9
+Added Pin To Net: NetName=A10 Pin=Analog-2
+Added Pin To Net: NetName=A10 Pin=infrared2-gndReceiver
+Added Pin To Net: NetName=A10 Pin=R5-1
+Added Net: Name=A10
+Added Pin To Net: NetName=A11 Pin=Analog-3
+Added Pin To Net: NetName=A11 Pin=infrared3-gndReceiver
+Added Pin To Net: NetName=A11 Pin=R8-1
+Added Net: Name=A11
+Added Pin To Net: NetName=A12 Pin=Analog-4
+Added Pin To Net: NetName=A12 Pin=infrared4-gndReceiver
+Added Pin To Net: NetName=A12 Pin=R11-1
+Added Net: Name=A12
+Added Pin To Net: NetName=A13 Pin=Analog-5
+Added Pin To Net: NetName=A13 Pin=infrared5-gndReceiver
+Added Pin To Net: NetName=A13 Pin=R14-1
+Added Net: Name=A13
+Added Pin To Net: NetName=D3 Pin=Digital-6
+Added Pin To Net: NetName=D3 Pin=LedRgbWs2812b6-din
+Added Net: Name=D3
+Added Pin To Net: NetName=D35 Pin=Digital-2
+Added Pin To Net: NetName=D35 Pin=R4-1
+Added Net: Name=D35
+Added Pin To Net: NetName=D37 Pin=Digital-1
+Added Pin To Net: NetName=D37 Pin=R1-1
+Added Net: Name=D37
+Added Pin To Net: NetName=D39 Pin=Digital-3
+Added Pin To Net: NetName=D39 Pin=R7-1
+Added Net: Name=D39
+Added Pin To Net: NetName=D41 Pin=Digital-4
+Added Pin To Net: NetName=D41 Pin=R10-1
+Added Net: Name=D41
+Added Pin To Net: NetName=D43 Pin=Digital-5
+Added Pin To Net: NetName=D43 Pin=R13-1
+Added Net: Name=D43
+Added Pin To Net: NetName=GND Pin=Alim-2
+Added Pin To Net: NetName=GND Pin=LedRgbWs2812b1-GND
+Added Pin To Net: NetName=GND Pin=LedRgbWs2812b2-GND
+Added Pin To Net: NetName=GND Pin=LedRgbWs2812b3-GND
+Added Pin To Net: NetName=GND Pin=LedRgbWs2812b4-GND
+Added Pin To Net: NetName=GND Pin=LedRgbWs2812b5-GND
+Added Pin To Net: NetName=GND Pin=LedRgbWs2812b6-GND
+Added Pin To Net: NetName=GND Pin=Q2-2
+Added Pin To Net: NetName=GND Pin=Q4-2
+Added Pin To Net: NetName=GND Pin=Q6-2
+Added Pin To Net: NetName=GND Pin=Q8-2
+Added Pin To Net: NetName=GND Pin=Q10-2
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R5-2
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=GND Pin=R8-2
+Added Pin To Net: NetName=GND Pin=R9-1
+Added Pin To Net: NetName=GND Pin=R11-2
+Added Pin To Net: NetName=GND Pin=R12-1
+Added Pin To Net: NetName=GND Pin=R14-2
+Added Pin To Net: NetName=GND Pin=R15-1
+Added Net: Name=GND
+Added Pin To Net: NetName=Netinfrared1_gndEmitter Pin=infrared1-gndEmitter
+Added Pin To Net: NetName=Netinfrared1_gndEmitter Pin=Q1-3
+Added Net: Name=Netinfrared1_gndEmitter
+Added Pin To Net: NetName=Netinfrared2_gndEmitter Pin=infrared2-gndEmitter
+Added Pin To Net: NetName=Netinfrared2_gndEmitter Pin=Q3-3
+Added Net: Name=Netinfrared2_gndEmitter
+Added Pin To Net: NetName=Netinfrared3_gndEmitter Pin=infrared3-gndEmitter
+Added Pin To Net: NetName=Netinfrared3_gndEmitter Pin=Q5-3
+Added Net: Name=Netinfrared3_gndEmitter
+Added Pin To Net: NetName=Netinfrared4_gndEmitter Pin=infrared4-gndEmitter
+Added Pin To Net: NetName=Netinfrared4_gndEmitter Pin=Q7-3
+Added Net: Name=Netinfrared4_gndEmitter
+Added Pin To Net: NetName=Netinfrared5_gndEmitter Pin=infrared5-gndEmitter
+Added Pin To Net: NetName=Netinfrared5_gndEmitter Pin=Q9-3
+Added Net: Name=Netinfrared5_gndEmitter
+Added Pin To Net: NetName=NetLedRgbWs2812b1_din Pin=LedRgbWs2812b1-din
+Added Pin To Net: NetName=NetLedRgbWs2812b1_din Pin=LedRgbWs2812b2-dout
+Added Net: Name=NetLedRgbWs2812b1_din
+Added Pin To Net: NetName=NetLedRgbWs2812b2_din Pin=LedRgbWs2812b2-din
+Added Pin To Net: NetName=NetLedRgbWs2812b2_din Pin=LedRgbWs2812b3-dout
+Added Net: Name=NetLedRgbWs2812b2_din
+Added Pin To Net: NetName=NetLedRgbWs2812b3_din Pin=LedRgbWs2812b3-din
+Added Pin To Net: NetName=NetLedRgbWs2812b3_din Pin=LedRgbWs2812b4-dout
+Added Net: Name=NetLedRgbWs2812b3_din
+Added Pin To Net: NetName=NetLedRgbWs2812b4_din Pin=LedRgbWs2812b4-din
+Added Pin To Net: NetName=NetLedRgbWs2812b4_din Pin=LedRgbWs2812b5-dout
+Added Net: Name=NetLedRgbWs2812b4_din
+Added Pin To Net: NetName=NetLedRgbWs2812b5_din Pin=LedRgbWs2812b5-din
+Added Pin To Net: NetName=NetLedRgbWs2812b5_din Pin=LedRgbWs2812b6-dout
+Added Net: Name=NetLedRgbWs2812b5_din
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=Q2-3
+Added Pin To Net: NetName=NetQ1_1 Pin=R1-2
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_2 Pin=Q2-1
+Added Pin To Net: NetName=NetQ1_2 Pin=R3-2
+Added Net: Name=NetQ1_2
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Pin To Net: NetName=NetQ3_1 Pin=Q4-3
+Added Pin To Net: NetName=NetQ3_1 Pin=R4-2
+Added Net: Name=NetQ3_1
+Added Pin To Net: NetName=NetQ3_2 Pin=Q3-2
+Added Pin To Net: NetName=NetQ3_2 Pin=Q4-1
+Added Pin To Net: NetName=NetQ3_2 Pin=R6-2
+Added Net: Name=NetQ3_2
+Added Pin To Net: NetName=NetQ5_1 Pin=Q5-1
+Added Pin To Net: NetName=NetQ5_1 Pin=Q6-3
+Added Pin To Net: NetName=NetQ5_1 Pin=R7-2
+Added Net: Name=NetQ5_1
+Added Pin To Net: NetName=NetQ5_2 Pin=Q5-2
+Added Pin To Net: NetName=NetQ5_2 Pin=Q6-1
+Added Pin To Net: NetName=NetQ5_2 Pin=R9-2
+Added Net: Name=NetQ5_2
+Added Pin To Net: NetName=NetQ7_1 Pin=Q7-1
+Added Pin To Net: NetName=NetQ7_1 Pin=Q8-3
+Added Pin To Net: NetName=NetQ7_1 Pin=R10-2
+Added Net: Name=NetQ7_1
+Added Pin To Net: NetName=NetQ7_2 Pin=Q7-2
+Added Pin To Net: NetName=NetQ7_2 Pin=Q8-1
+Added Pin To Net: NetName=NetQ7_2 Pin=R12-2
+Added Net: Name=NetQ7_2
+Added Pin To Net: NetName=NetQ9_1 Pin=Q9-1
+Added Pin To Net: NetName=NetQ9_1 Pin=Q10-3
+Added Pin To Net: NetName=NetQ9_1 Pin=R13-2
+Added Net: Name=NetQ9_1
+Added Pin To Net: NetName=NetQ9_2 Pin=Q9-2
+Added Pin To Net: NetName=NetQ9_2 Pin=Q10-1
+Added Pin To Net: NetName=NetQ9_2 Pin=R15-2
+Added Net: Name=NetQ9_2
+Added Pin To Net: NetName=VCC Pin=Alim-1
+Added Pin To Net: NetName=VCC Pin=infrared1-VCC
+Added Pin To Net: NetName=VCC Pin=infrared1-VCC
+Added Pin To Net: NetName=VCC Pin=infrared2-VCC
+Added Pin To Net: NetName=VCC Pin=infrared2-VCC
+Added Pin To Net: NetName=VCC Pin=infrared3-VCC
+Added Pin To Net: NetName=VCC Pin=infrared3-VCC
+Added Pin To Net: NetName=VCC Pin=infrared4-VCC
+Added Pin To Net: NetName=VCC Pin=infrared4-VCC
+Added Pin To Net: NetName=VCC Pin=infrared5-VCC
+Added Pin To Net: NetName=VCC Pin=infrared5-VCC
+Added Pin To Net: NetName=VCC Pin=LedRgbWs2812b1-VCC
+Added Pin To Net: NetName=VCC Pin=LedRgbWs2812b2-VCC
+Added Pin To Net: NetName=VCC Pin=LedRgbWs2812b3-VCC
+Added Pin To Net: NetName=VCC Pin=LedRgbWs2812b4-VCC
+Added Pin To Net: NetName=VCC Pin=LedRgbWs2812b5-VCC
+Added Pin To Net: NetName=VCC Pin=LedRgbWs2812b6-VCC
+Added Net: Name=VCC
+Added Class: Name=CarteTxCapteurDistance

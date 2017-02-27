@@ -1,0 +1,280 @@
+Added Component: Designator=C4(0805)
+Added Component: Designator=C5(0805)
+Added Component: Designator=C12(0805)
+Added Component: Designator=C13(0805)
+Added Component: Designator=C14(0805)
+Added Component: Designator=C15(0805)
+Added Component: Designator=C16(0805)
+Added Component: Designator=ConnecteurDroit(HE10-10V)
+Added Component: Designator=ConnecteurGauche(HE10-10V)
+Added Component: Designator=LD1(LED1206)
+Added Component: Designator=R1(0805)
+Added Component: Designator=R2(0805)
+Added Component: Designator=R3(0805)
+Added Component: Designator=R4(0805)
+Added Component: Designator=R5(0805)
+Added Component: Designator=R6(0805)
+Added Component: Designator=R7(0805)
+Added Component: Designator=R12(0805)
+Added Component: Designator=R13(0805)
+Added Component: Designator=R14(0805)
+Added Component: Designator=R15(0805)
+Added Component: Designator=R16(0805)
+Added Component: Designator=R17(0805)
+Added Component: Designator=R18(0805)
+Added Component: Designator=R19(0805)
+Added Component: Designator=R20(0805)
+Added Component: Designator=R21(0805)
+Added Component: Designator=R22(0805)
+Added Component: Designator=R23(0805)
+Added Component: Designator=R24(0805)
+Added Component: Designator=R25(0805)
+Added Component: Designator=R26(0805)
+Added Component: Designator=RGB1(LedRgbWs2812b)
+Added Component: Designator=RGB2(LedRgbWs2812b)
+Added Component: Designator=RGB3(LedRgbWs2812b)
+Added Component: Designator=RGB4(LedRgbWs2812b)
+Added Component: Designator=RGB5(LedRgbWs2812b)
+Added Component: Designator=U1(TCRT5000 Droit)
+Added Component: Designator=U2(TCRT5000 Droit)
+Added Component: Designator=U3(BC817-40)
+Added Component: Designator=U4(BC817-40)
+Added Component: Designator=U5(BC817-40)
+Added Component: Designator=U6(Infrared)
+Added Component: Designator=U6(BC817-40)
+Added Component: Designator=U7(Infrared)
+Added Component: Designator=U8(Infrared)
+Added Component: Designator=U9(Infrared)
+Added Component: Designator=U10(Infrared)
+Added Component: Designator=U11(BC817-40)
+Added Component: Designator=U12(BC817-40)
+Added Component: Designator=U13(BC817-40)
+Added Component: Designator=U14(BC817-40)
+Added Component: Designator=U15(BC817-40)
+Added Component: Designator=U16(BC817-40)
+Added Component: Designator=U17(BC817-40)
+Added Component: Designator=U18(BC817-40)
+Added Component: Designator=U19(BC817-40)
+Added Component: Designator=U20(BC817-40)
+Added Pin To Net: NetName=LEFTLINESENSOR Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=RIGHTLINESENSOR Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=VCC 5V Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=VCC 5V Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=VCC 5V Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=VCC 5V Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=VCC 5V Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C16-2
+Added Pin To Net: NetName=LEFTSENSOR Pin=ConnecteurDroit-1
+Added Pin To Net: NetName=VCC5V Pin=ConnecteurDroit-2
+Added Pin To Net: NetName=LEFTSENSORCOMMAND Pin=ConnecteurDroit-3
+Added Pin To Net: NetName=GND Pin=ConnecteurDroit-4
+Added Pin To Net: NetName=MIDLEFTSENSOR Pin=ConnecteurDroit-5
+Added Pin To Net: NetName=GND Pin=ConnecteurDroit-6
+Added Pin To Net: NetName=MIDLEFTSENSORCOMMAND Pin=ConnecteurDroit-7
+Added Pin To Net: NetName=RGB LED FRONT Pin=ConnecteurDroit-8
+Added Pin To Net: NetName=MIDRIGHTSENSOR Pin=ConnecteurDroit-9
+Added Pin To Net: NetName=MIDRIGHTSENSORCOMMAND Pin=ConnecteurDroit-10
+Added Pin To Net: NetName=LEFTLINESENSOR_COMMANDE Pin=ConnecteurGauche-1
+Added Pin To Net: NetName=RIGHTSENSOR Pin=ConnecteurGauche-2
+Added Pin To Net: NetName=LEFTLINESENSOR Pin=ConnecteurGauche-3
+Added Pin To Net: NetName=RIGHTSENSORCOMMAND Pin=ConnecteurGauche-4
+Added Pin To Net: NetName=RIGHTLINESENSOR_COMMANDE Pin=ConnecteurGauche-5
+Added Pin To Net: NetName=VCC5V Pin=ConnecteurGauche-6
+Added Pin To Net: NetName=RIGHTLINESENSOR Pin=ConnecteurGauche-7
+Added Pin To Net: NetName=GND Pin=ConnecteurGauche-8
+Added Pin To Net: NetName=MIDSENSOR Pin=ConnecteurGauche-9
+Added Pin To Net: NetName=MIDSENSORCOMMAND Pin=ConnecteurGauche-10
+Added Pin To Net: NetName=NetLD1_A Pin=LD1-A
+Added Pin To Net: NetName=GND Pin=LD1-K
+Added Pin To Net: NetName=LEFTLINESENSOR Pin=R1-1
+Added Pin To Net: NetName=VCC5V Pin=R1-2
+Added Pin To Net: NetName=RIGHTLINESENSOR Pin=R2-1
+Added Pin To Net: NetName=VCC5V Pin=R2-2
+Added Pin To Net: NetName=RIGHTLINESENSOR_COMMANDE Pin=R3-1
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=LEFTLINESENSOR_COMMANDE Pin=R5-1
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetLD1_A Pin=R7-1
+Added Pin To Net: NetName=VCC5V Pin=R7-2
+Added Pin To Net: NetName=RIGHTSENSOR Pin=R12-1
+Added Pin To Net: NetName=GND Pin=R12-2
+Added Pin To Net: NetName=MIDRIGHTSENSOR Pin=R13-1
+Added Pin To Net: NetName=GND Pin=R13-2
+Added Pin To Net: NetName=MIDSENSOR Pin=R14-1
+Added Pin To Net: NetName=GND Pin=R14-2
+Added Pin To Net: NetName=MIDLEFTSENSOR Pin=R15-1
+Added Pin To Net: NetName=GND Pin=R15-2
+Added Pin To Net: NetName=LEFTSENSOR Pin=R16-1
+Added Pin To Net: NetName=GND Pin=R16-2
+Added Pin To Net: NetName=RIGHTSENSORCOMMAND Pin=R17-1
+Added Pin To Net: NetName=NetR17_2 Pin=R17-2
+Added Pin To Net: NetName=RIGHTSENSORCOMMAND Pin=R18-1
+Added Pin To Net: NetName=NetR18_2 Pin=R18-2
+Added Pin To Net: NetName=MIDSENSORCOMMAND Pin=R19-1
+Added Pin To Net: NetName=NetR19_2 Pin=R19-2
+Added Pin To Net: NetName=NetR20_2 Pin=R20-2
+Added Pin To Net: NetName=LEFTSENSORCOMMAND Pin=R21-1
+Added Pin To Net: NetName=NetR21_2 Pin=R21-2
+Added Pin To Net: NetName=GND Pin=R22-1
+Added Pin To Net: NetName=NetR22_2 Pin=R22-2
+Added Pin To Net: NetName=GND Pin=R23-1
+Added Pin To Net: NetName=NetR23_2 Pin=R23-2
+Added Pin To Net: NetName=GND Pin=R24-1
+Added Pin To Net: NetName=NetR24_2 Pin=R24-2
+Added Pin To Net: NetName=GND Pin=R25-1
+Added Pin To Net: NetName=NetR25_2 Pin=R25-2
+Added Pin To Net: NetName=GND Pin=R26-1
+Added Pin To Net: NetName=NetR26_2 Pin=R26-2
+Added Pin To Net: NetName=RGB LED FRONT Pin=RGB1-din
+Added Pin To Net: NetName=NetRGB1_dout Pin=RGB1-dout
+Added Pin To Net: NetName=GND Pin=RGB1-GND
+Added Pin To Net: NetName=VCC 5V Pin=RGB1-VCC
+Added Pin To Net: NetName=NetRGB1_dout Pin=RGB2-din
+Added Pin To Net: NetName=NetRGB2_dout Pin=RGB2-dout
+Added Pin To Net: NetName=GND Pin=RGB2-GND
+Added Pin To Net: NetName=VCC 5V Pin=RGB2-VCC
+Added Pin To Net: NetName=NetRGB2_dout Pin=RGB3-din
+Added Pin To Net: NetName=NetRGB3_dout Pin=RGB3-dout
+Added Pin To Net: NetName=GND Pin=RGB3-GND
+Added Pin To Net: NetName=VCC 5V Pin=RGB3-VCC
+Added Pin To Net: NetName=NetRGB3_dout Pin=RGB4-din
+Added Pin To Net: NetName=NetRGB4_dout Pin=RGB4-dout
+Added Pin To Net: NetName=GND Pin=RGB4-GND
+Added Pin To Net: NetName=VCC 5V Pin=RGB4-VCC
+Added Pin To Net: NetName=NetRGB4_dout Pin=RGB5-din
+Added Pin To Net: NetName=GND Pin=RGB5-GND
+Added Pin To Net: NetName=VCC 5V Pin=RGB5-VCC
+Added Pin To Net: NetName=LEFTLINESENSOR Pin=U1-1
+Added Pin To Net: NetName=VCC5V Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=NetU1_4 Pin=U1-4
+Added Pin To Net: NetName=RIGHTLINESENSOR Pin=U2-1
+Added Pin To Net: NetName=VCC5V Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U2-3
+Added Pin To Net: NetName=NetU2_4 Pin=U2-4
+Added Pin To Net: NetName=NetR5_2 Pin=U3-1
+Added Pin To Net: NetName=NetR6_2 Pin=U3-2
+Added Pin To Net: NetName=NetU1_4 Pin=U3-3
+Added Pin To Net: NetName=NetR3_2 Pin=U4-1
+Added Pin To Net: NetName=NetR4_2 Pin=U4-2
+Added Pin To Net: NetName=NetU2_4 Pin=U4-3
+Added Pin To Net: NetName=NetR6_2 Pin=U5-1
+Added Pin To Net: NetName=GND Pin=U5-2
+Added Pin To Net: NetName=NetR5_2 Pin=U5-3
+Added Pin To Net: NetName=NetR4_2 Pin=U6-1
+Added Pin To Net: NetName=GND Pin=U6-2
+Added Pin To Net: NetName=NetR3_2 Pin=U6-3
+Added Pin To Net: NetName=NetU7_gndEmitter Pin=U7-gndEmitter
+Added Pin To Net: NetName=MIDRIGHTSENSOR Pin=U7-gndReceiver
+Added Pin To Net: NetName=VCC 5V Pin=U7-VCC
+Added Pin To Net: NetName=VCC 5V Pin=U7-VCC
+Added Pin To Net: NetName=NetU8_gndEmitter Pin=U8-gndEmitter
+Added Pin To Net: NetName=MIDSENSOR Pin=U8-gndReceiver
+Added Pin To Net: NetName=VCC 5V Pin=U8-VCC
+Added Pin To Net: NetName=VCC 5V Pin=U8-VCC
+Added Pin To Net: NetName=NetU9_gndEmitter Pin=U9-gndEmitter
+Added Pin To Net: NetName=MIDLEFTSENSOR Pin=U9-gndReceiver
+Added Pin To Net: NetName=VCC 5V Pin=U9-VCC
+Added Pin To Net: NetName=VCC 5V Pin=U9-VCC
+Added Pin To Net: NetName=NetU10_gndEmitter Pin=U10-gndEmitter
+Added Pin To Net: NetName=LEFTSENSOR Pin=U10-gndReceiver
+Added Pin To Net: NetName=VCC 5V Pin=U10-VCC
+Added Pin To Net: NetName=VCC 5V Pin=U10-VCC
+Added Pin To Net: NetName=NetR17_2 Pin=U11-1
+Added Pin To Net: NetName=NetR22_2 Pin=U11-2
+Added Pin To Net: NetName=NetU6_gndEmitter Pin=U11-3
+Added Pin To Net: NetName=NetR18_2 Pin=U12-1
+Added Pin To Net: NetName=NetR23_2 Pin=U12-2
+Added Pin To Net: NetName=NetU7_gndEmitter Pin=U12-3
+Added Pin To Net: NetName=NetR19_2 Pin=U13-1
+Added Pin To Net: NetName=NetR24_2 Pin=U13-2
+Added Pin To Net: NetName=NetU8_gndEmitter Pin=U13-3
+Added Pin To Net: NetName=NetR20_2 Pin=U14-1
+Added Pin To Net: NetName=NetR25_2 Pin=U14-2
+Added Pin To Net: NetName=NetU9_gndEmitter Pin=U14-3
+Added Pin To Net: NetName=NetR21_2 Pin=U15-1
+Added Pin To Net: NetName=NetR26_2 Pin=U15-2
+Added Pin To Net: NetName=NetU10_gndEmitter Pin=U15-3
+Added Pin To Net: NetName=NetR22_2 Pin=U16-1
+Added Pin To Net: NetName=GND Pin=U16-2
+Added Pin To Net: NetName=NetR17_2 Pin=U16-3
+Added Pin To Net: NetName=NetR23_2 Pin=U17-1
+Added Pin To Net: NetName=GND Pin=U17-2
+Added Pin To Net: NetName=NetR18_2 Pin=U17-3
+Added Pin To Net: NetName=NetR24_2 Pin=U18-1
+Added Pin To Net: NetName=GND Pin=U18-2
+Added Pin To Net: NetName=NetR19_2 Pin=U18-3
+Added Pin To Net: NetName=NetR25_2 Pin=U19-1
+Added Pin To Net: NetName=GND Pin=U19-2
+Added Pin To Net: NetName=NetR20_2 Pin=U19-3
+Added Pin To Net: NetName=NetR26_2 Pin=U20-1
+Added Pin To Net: NetName=GND Pin=U20-2
+Added Pin To Net: NetName=NetR21_2 Pin=U20-3
+Added Member To Class: ClassName=CarteCapteurAvant3 Member=Component C4 CAP
+Added Member To Class: ClassName=CarteCapteurAvant3 Member=Component C5 CAP
+Added Member To Class: ClassName=CarteCapteurAvant3 Member=Component C12 CAP
+Added Member To Class: ClassName=CarteCapteurAvant3 Member=Component C13 CAP
+Added Member To Class: ClassName=CarteCapteurAvant3 Member=Component C14 CAP
+Added Member To Class: ClassName=CarteCapteurAvant3 Member=Component C15 CAP
+Added Member To Class: ClassName=CarteCapteurAvant3 Member=Component C16 CAP
+Added Member To Class: ClassName=CarteCapteurAvant3 Member=Component ConnecteurDroit comment
+Added Member To Class: ClassName=CarteCapteurAvant3 Member=Component ConnecteurGauche comment
+Added Member To Class: ClassName=CarteCapteurAvant3 Member=Component LD1 comment
+Added Member To Class: ClassName=CarteCapteurAvant3 Member=Component R1 RES
+Added Member To Class: ClassName=CarteCapteurAvant3 Member=Component R2 RES
+Added Member To Class: ClassName=CarteCapteurAvant3 Member=Component R3 RES
+Added Member To Class: ClassName=CarteCapteurAvant3 Member=Component R4 RES
+Added Member To Class: ClassName=CarteCapteurAvant3 Member=Component R5 RES
+Added Member To Class: ClassName=CarteCapteurAvant3 Member=Component R6 RES
+Added Member To Class: ClassName=CarteCapteurAvant3 Member=Component R7 RES
+Added Member To Class: ClassName=CarteCapteurAvant3 Member=Component R12 RES
+Added Member To Class: ClassName=CarteCapteurAvant3 Member=Component R13 RES
+Added Member To Class: ClassName=CarteCapteurAvant3 Member=Component R14 RES
+Added Member To Class: ClassName=CarteCapteurAvant3 Member=Component R15 RES
+Added Member To Class: ClassName=CarteCapteurAvant3 Member=Component R16 RES
+Added Member To Class: ClassName=CarteCapteurAvant3 Member=Component R17 RES
+Added Member To Class: ClassName=CarteCapteurAvant3 Member=Component R18 RES
+Added Member To Class: ClassName=CarteCapteurAvant3 Member=Component R19 RES
+Added Member To Class: ClassName=CarteCapteurAvant3 Member=Component R20 RES
+Added Member To Class: ClassName=CarteCapteurAvant3 Member=Component R21 RES
+Added Member To Class: ClassName=CarteCapteurAvant3 Member=Component R22 RES
+Added Member To Class: ClassName=CarteCapteurAvant3 Member=Component R23 RES
+Added Member To Class: ClassName=CarteCapteurAvant3 Member=Component R24 RES
+Added Member To Class: ClassName=CarteCapteurAvant3 Member=Component R25 RES
+Added Member To Class: ClassName=CarteCapteurAvant3 Member=Component R26 RES
+Added Member To Class: ClassName=CarteCapteurAvant3 Member=Component RGB1 LedRgbWs2812b
+Added Member To Class: ClassName=CarteCapteurAvant3 Member=Component RGB2 LedRgbWs2812b
+Added Member To Class: ClassName=CarteCapteurAvant3 Member=Component RGB3 LedRgbWs2812b
+Added Member To Class: ClassName=CarteCapteurAvant3 Member=Component RGB4 LedRgbWs2812b
+Added Member To Class: ClassName=CarteCapteurAvant3 Member=Component RGB5 LedRgbWs2812b
+Added Member To Class: ClassName=CarteCapteurAvant3 Member=Component U1 TCRT5000
+Added Member To Class: ClassName=CarteCapteurAvant3 Member=Component U2 TCRT5000
+Added Member To Class: ClassName=CarteCapteurAvant3 Member=Component U3 Transistors
+Added Member To Class: ClassName=CarteCapteurAvant3 Member=Component U4 Transistors
+Added Member To Class: ClassName=CarteCapteurAvant3 Member=Component U5 Transistors
+Added Member To Class: ClassName=CarteCapteurAvant3 Member=Component U6 infrared
+Added Member To Class: ClassName=CarteCapteurAvant3 Member=Component U7 infrared
+Added Member To Class: ClassName=CarteCapteurAvant3 Member=Component U8 infrared
+Added Member To Class: ClassName=CarteCapteurAvant3 Member=Component U9 infrared
+Added Member To Class: ClassName=CarteCapteurAvant3 Member=Component U10 infrared
+Added Member To Class: ClassName=CarteCapteurAvant3 Member=Component U11 Transistors
+Added Member To Class: ClassName=CarteCapteurAvant3 Member=Component U12 Transistors
+Added Member To Class: ClassName=CarteCapteurAvant3 Member=Component U13 Transistors
+Added Member To Class: ClassName=CarteCapteurAvant3 Member=Component U14 Transistors
+Added Member To Class: ClassName=CarteCapteurAvant3 Member=Component U15 Transistors
+Added Member To Class: ClassName=CarteCapteurAvant3 Member=Component U16 Transistors
+Added Member To Class: ClassName=CarteCapteurAvant3 Member=Component U17 Transistors
+Added Member To Class: ClassName=CarteCapteurAvant3 Member=Component U18 Transistors
+Added Member To Class: ClassName=CarteCapteurAvant3 Member=Component U19 Transistors
+Added Member To Class: ClassName=CarteCapteurAvant3 Member=Component U20 Transistors
+Added Room: Name=CarteCapteurAvant3

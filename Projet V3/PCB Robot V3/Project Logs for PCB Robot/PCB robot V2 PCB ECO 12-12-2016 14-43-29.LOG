@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=Battery pins1-1
+Removed Pin From Net: NetName=BATTERY Pin=Battery pins1-2
+Removed Pin From Net: NetName=BATTERY Pin=U1-4
+Removed Member From Class: ClassName=Alim sch projet robot Member=Battery pins1
+Added Pin To Net: NetName=VCC 5V USB Pin=U1-4

@@ -1,0 +1,71 @@
+Added Component: Designator=*(L293NE)
+Added Component: Designator=Diode 1(Diode ss16)
+Added Component: Designator=Diode 2(Diode ss16)
+Added Component: Designator=Diode 3(Diode ss16)
+Added Component: Designator=Diode 4(Diode ss16)
+Added Component: Designator=Diode 5(Diode ss16)
+Added Component: Designator=Diode 6(Diode ss16)
+Added Component: Designator=Diode 7(Diode ss16)
+Added Component: Designator=Diode 8(Diode ss16)
+Added Component: Designator=Header 10(HE10-10V)
+Added Component: Designator=MOTOR1(JMP2-100)
+Added Component: Designator=MOTOR2(JMP2-100)
+Added Pin To Net: NetName=ENABLE1 Pin=*-1
+Added Pin To Net: NetName=ENABLE1 Pin=Header 10-3
+Added Net: Name=ENABLE1
+Added Pin To Net: NetName=ENABLE2 Pin=*-16
+Added Pin To Net: NetName=ENABLE2 Pin=Header 10-6
+Added Net: Name=ENABLE2
+Added Pin To Net: NetName=GND Pin=*-4
+Added Pin To Net: NetName=GND Pin=*-5
+Added Pin To Net: NetName=GND Pin=*-12
+Added Pin To Net: NetName=GND Pin=*-13
+Added Pin To Net: NetName=GND Pin=Diode 1-+
+Added Pin To Net: NetName=GND Pin=Diode 2-+
+Added Pin To Net: NetName=GND Pin=Diode 5-+
+Added Pin To Net: NetName=GND Pin=Diode 6-+
+Added Pin To Net: NetName=GND Pin=Header 10-9
+Added Net: Name=GND
+Added Pin To Net: NetName=MOTOR1_IN1 Pin=*-2
+Added Pin To Net: NetName=MOTOR1_IN1 Pin=Header 10-4
+Added Net: Name=MOTOR1_IN1
+Added Pin To Net: NetName=MOTOR1_IN2 Pin=*-7
+Added Pin To Net: NetName=MOTOR1_IN2 Pin=Header 10-5
+Added Net: Name=MOTOR1_IN2
+Added Pin To Net: NetName=MOTOR2_IN1 Pin=*-10
+Added Pin To Net: NetName=MOTOR2_IN1 Pin=Header 10-7
+Added Net: Name=MOTOR2_IN1
+Added Pin To Net: NetName=MOTOR2_IN2 Pin=*-15
+Added Pin To Net: NetName=MOTOR2_IN2 Pin=Header 10-8
+Added Net: Name=MOTOR2_IN2
+Added Pin To Net: NetName=Net*_3 Pin=*-3
+Added Pin To Net: NetName=Net*_3 Pin=Diode 1--
+Added Pin To Net: NetName=Net*_3 Pin=Diode 3-+
+Added Pin To Net: NetName=Net*_3 Pin=MOTOR1-2
+Added Net: Name=Net*_3
+Added Pin To Net: NetName=Net*_6 Pin=*-6
+Added Pin To Net: NetName=Net*_6 Pin=Diode 2--
+Added Pin To Net: NetName=Net*_6 Pin=Diode 4-+
+Added Pin To Net: NetName=Net*_6 Pin=MOTOR1-1
+Added Net: Name=Net*_6
+Added Pin To Net: NetName=Net*_11 Pin=*-11
+Added Pin To Net: NetName=Net*_11 Pin=Diode 5--
+Added Pin To Net: NetName=Net*_11 Pin=Diode 7-+
+Added Pin To Net: NetName=Net*_11 Pin=MOTOR2-1
+Added Net: Name=Net*_11
+Added Pin To Net: NetName=Net*_14 Pin=*-14
+Added Pin To Net: NetName=Net*_14 Pin=Diode 6--
+Added Pin To Net: NetName=Net*_14 Pin=Diode 8-+
+Added Pin To Net: NetName=Net*_14 Pin=MOTOR2-2
+Added Net: Name=Net*_14
+Added Pin To Net: NetName=VCC1 5V Pin=*-9
+Added Pin To Net: NetName=VCC1 5V Pin=Header 10-1
+Added Net: Name=VCC1 5V
+Added Pin To Net: NetName=VCC2 8V Pin=*-8
+Added Pin To Net: NetName=VCC2 8V Pin=Diode 3--
+Added Pin To Net: NetName=VCC2 8V Pin=Diode 4--
+Added Pin To Net: NetName=VCC2 8V Pin=Diode 7--
+Added Pin To Net: NetName=VCC2 8V Pin=Diode 8--
+Added Pin To Net: NetName=VCC2 8V Pin=Header 10-2
+Added Net: Name=VCC2 8V
+Added Class: Name=CarteTxMoteur

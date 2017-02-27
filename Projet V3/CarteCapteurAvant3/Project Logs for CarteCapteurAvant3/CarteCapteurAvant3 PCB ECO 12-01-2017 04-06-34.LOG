@@ -1,0 +1,6 @@
+Added Component: Designator=IR1(Infrared)
+Added Pin To Net: NetName=NetIR1_gndEmitter Pin=IR1-gndEmitter
+Added Pin To Net: NetName=LEFTSENSOR Pin=IR1-gndReceiver
+Added Pin To Net: NetName=VCC 5V Pin=IR1-VCC
+Added Pin To Net: NetName=VCC 5V Pin=IR1-VCC
+Added Member To Class: ClassName=CarteCapteurAvant3 Member=Component IR1 infrared

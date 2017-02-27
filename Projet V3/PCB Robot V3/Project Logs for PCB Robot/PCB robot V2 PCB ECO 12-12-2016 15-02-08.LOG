@@ -1,0 +1,22 @@
+Added Component: Designator=R49(0805)
+Added Component: Designator=R50(0805)
+Added Component: Designator=To wifi(HDR2X4)
+Added Pin To Net: NetName=GND Pin=R50-2
+Added Pin To Net: NetName=GND Pin=To wifi-2
+Added Pin To Net: NetName=VCC 3.3V Pin=To wifi-3
+Added Pin To Net: NetName=VCC 3.3V Pin=To wifi-7
+Added Pin To Net: NetName=NetR49_1 Pin=R49-1
+Added Net: Name=NetR49_1
+Added Pin To Net: NetName=NetR49_2 Pin=R49-2
+Added Pin To Net: NetName=NetR49_2 Pin=R50-1
+Added Pin To Net: NetName=NetR49_2 Pin=To wifi-8
+Added Net: Name=NetR49_2
+Added Pin To Net: NetName=NetTo wifi_1 Pin=To wifi-1
+Added Net: Name=NetTo wifi_1
+Added Pin To Net: NetName=NetTo wifi_4 Pin=To wifi-4
+Added Net: Name=NetTo wifi_4
+Added Pin To Net: NetName=NetTo wifi_5 Pin=To wifi-5
+Added Net: Name=NetTo wifi_5
+Added Pin To Net: NetName=NetTo wifi_6 Pin=To wifi-6
+Added Net: Name=NetTo wifi_6
+Added Class: Name=Wi fi connector

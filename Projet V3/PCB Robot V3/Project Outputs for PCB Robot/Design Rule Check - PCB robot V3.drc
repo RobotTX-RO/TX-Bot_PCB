@@ -1,0 +1,47 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\isen\Documents\M1-M2\Crysteo\PséB\PCB Robot V2\PCB robot V3.2.PCBDOC
+Date     : 02/02/2017
+Time     : 11:15:18
+
+Processing Rule : Clearance Constraint (Gap=20mil) (OnLayer('Top Layer')  Or OnLayer('Multi-Layer')),(OnLayer('Top Layer') And InPoly)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=20mil) (OnLayer('Bottom Layer') Or OnLayer('Multi-Layer')),(OnLayer('Bottom Layer')  And  InPoly)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=16mil) (Max=1000mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : SMD To Plane Constraint (Distance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=8mil) (PadXSize_AllLayers = PadYSize_AllLayers)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=7.559mil) (OnLayer('Top Layer')  Or OnLayer('Multi-Layer')),(OnLayer('Top Layer') And Not InPoly)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=7.48mil) (OnLayer('Bottom Layer') Or OnLayer('Multi-Layer')),(OnLayer('Bottom Layer')  And Not InPoly)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=10000mil) (Preferred=32mil) (OnLayer('Bottom Layer') or OnLayer('Top Layer'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=10mil) (OnLayer('Multi-Layer')),(OnLayer('Multi-Layer'))
+Rule Violations :0
+
+
+Violations Detected : 0
+Time Elapsed        : 00:00:02

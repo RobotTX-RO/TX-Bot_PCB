@@ -1,0 +1,10 @@
+Added Component: Designator=ConnecteurDroit(HE10-10V)
+Added Component: Designator=ConnecteurGauche(HE10-10V)
+Added Pin To Net: NetName=LEFTLINESENSOR_COMMANDE Pin=ConnecteurGauche-1
+Added Pin To Net: NetName=LEFTLINESENSOR Pin=ConnecteurGauche-3
+Added Pin To Net: NetName=RIGHTLINESENSOR_COMMANDE Pin=ConnecteurGauche-5
+Added Pin To Net: NetName=VCC5V Pin=ConnecteurGauche-6
+Added Pin To Net: NetName=RIGHTLINESENSOR Pin=ConnecteurGauche-7
+Added Pin To Net: NetName=GND Pin=ConnecteurGauche-8
+Added Member To Class: ClassName=CarteCapteurAvant3 Member=Component ConnecteurDroit comment
+Added Member To Class: ClassName=CarteCapteurAvant3 Member=Component ConnecteurGauche comment

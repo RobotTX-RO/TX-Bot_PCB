@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=GND Pin=Alim1-1
+Removed Member From Class: ClassName=IA Core Member=Alim1
+Added Pin To Net: NetName=MOTOR1 OUT+ Pin=D6-2

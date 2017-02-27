@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=D3 Pin=LedRgbWs2812b6-din
+Added Pin To Net: NetName=D3 Pin=LedRgbWs2812b1-din
+Added Pin To Net: NetName=NetLedRgbWs2812b1_dout Pin=LedRgbWs2812b1-dout
+Added Pin To Net: NetName=NetLedRgbWs2812b1_dout Pin=LedRgbWs2812b2-din
+Added Net: Name=NetLedRgbWs2812b1_dout
+Added Pin To Net: NetName=NetLedRgbWs2812b2_dout Pin=LedRgbWs2812b2-dout
+Added Pin To Net: NetName=NetLedRgbWs2812b2_dout Pin=LedRgbWs2812b3-din
+Added Net: Name=NetLedRgbWs2812b2_dout
+Added Pin To Net: NetName=NetLedRgbWs2812b3_dout Pin=LedRgbWs2812b3-dout
+Added Pin To Net: NetName=NetLedRgbWs2812b3_dout Pin=LedRgbWs2812b4-din
+Added Net: Name=NetLedRgbWs2812b3_dout
+Added Pin To Net: NetName=NetLedRgbWs2812b4_dout Pin=LedRgbWs2812b4-dout
+Added Pin To Net: NetName=NetLedRgbWs2812b4_dout Pin=LedRgbWs2812b5-din
+Added Net: Name=NetLedRgbWs2812b4_dout
+Added Pin To Net: NetName=NetLedRgbWs2812b5_dout Pin=LedRgbWs2812b5-dout
+Added Pin To Net: NetName=NetLedRgbWs2812b5_dout Pin=LedRgbWs2812b6-din
+Added Net: Name=NetLedRgbWs2812b5_dout

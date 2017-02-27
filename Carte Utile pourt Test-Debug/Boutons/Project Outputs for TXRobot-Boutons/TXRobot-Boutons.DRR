@@ -1,0 +1,17 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: TXRobot-Boutons.PCBDOC   10/24/2016  11:10:00 AM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : TXRobot-Boutons.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        28mil (0.7112mm)         Round          9                3.33 Inch (84.70 mm)
+T2        30mil (0.762mm)          Round          20               5.42 Inch (137.71 mm)
+T3        36mil (0.9144mm)         Round          10               0.90 Inch (22.86 mm)
+T4        118.1mil (2.99974mm)     Round          3                1.77 Inch (45.00 mm)
+---------------------------------------------------------------------------
+Totals                                            42               11.43 Inch (290.27 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
